@@ -1,0 +1,11 @@
+C:\Users\Pavel\Documents\WPFBook\Chapter02\CH02\CH02.UserSelectedColorsFonts\bin\Debug\CH02.UserSelectedColorsFonts.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter02\CH02\CH02.UserSelectedColorsFonts\bin\Debug\CH02.UserSelectedColorsFonts.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter02\CH02\CH02.UserSelectedColorsFonts\obj\x86\Debug\MainWindow.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter02\CH02\CH02.UserSelectedColorsFonts\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter02\CH02\CH02.UserSelectedColorsFonts\obj\x86\Debug\App.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter02\CH02\CH02.UserSelectedColorsFonts\obj\x86\Debug\CH02.UserSelectedColorsFonts_MarkupCompile.cache
+C:\Users\Pavel\Documents\WPFBook\Chapter02\CH02\CH02.UserSelectedColorsFonts\obj\x86\Debug\CH02.UserSelectedColorsFonts.g.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter02\CH02\CH02.UserSelectedColorsFonts\obj\x86\Debug\CH02.UserSelectedColorsFonts.Properties.Resources.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter02\CH02\CH02.UserSelectedColorsFonts\obj\x86\Debug\CH02.UserSelectedColorsFonts.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter02\CH02\CH02.UserSelectedColorsFonts\obj\x86\Debug\CH02.UserSelectedColorsFonts.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter02\CH02\CH02.UserSelectedColorsFonts\obj\x86\Debug\CH02.UserSelectedColorsFonts.csproj.GenerateResource.Cache

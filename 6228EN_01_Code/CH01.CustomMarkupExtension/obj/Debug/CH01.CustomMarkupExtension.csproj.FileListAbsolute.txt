@@ -1,0 +1,5 @@
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01.CustomMarkupExtension\bin\Debug\CH01.CustomMarkupExtension.dll
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01.CustomMarkupExtension\bin\Debug\CH01.CustomMarkupExtension.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01.CustomMarkupExtension\obj\Debug\CH01.CustomMarkupExtension.dll
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01.CustomMarkupExtension\obj\Debug\CH01.CustomMarkupExtension.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01.CustomMarkupExtension\obj\Debug\CH01.CustomMarkupExtension.csprojResolveAssemblyReference.cache

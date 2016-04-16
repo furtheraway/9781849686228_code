@@ -1,0 +1,11 @@
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08.StyledCalculatorWithTriggers\obj\x86\Debug\CH08.StyledCalculator.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08.StyledCalculatorWithTriggers\obj\x86\Debug\CH08.StyledCalculator.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08.StyledCalculatorWithTriggers\bin\Debug\CH08.StyledCalculator.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08.StyledCalculatorWithTriggers\bin\Debug\CH08.StyledCalculator.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08.StyledCalculatorWithTriggers\obj\x86\Debug\MainWindow.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08.StyledCalculatorWithTriggers\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08.StyledCalculatorWithTriggers\obj\x86\Debug\App.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08.StyledCalculatorWithTriggers\obj\x86\Debug\CH08.StyledCalculator_MarkupCompile.cache
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08.StyledCalculatorWithTriggers\obj\x86\Debug\CH08.StyledCalculator.g.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08.StyledCalculatorWithTriggers\obj\x86\Debug\CH08.StyledCalculator.Properties.Resources.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08.StyledCalculatorWithTriggers\obj\x86\Debug\CH08.StyledCalculatorWithTriggers.csproj.GenerateResource.Cache

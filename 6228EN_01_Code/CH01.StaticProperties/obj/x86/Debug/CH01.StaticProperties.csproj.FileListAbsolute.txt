@@ -1,0 +1,11 @@
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01.StaticProperties\bin\Debug\CH01.StaticProperties.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01.StaticProperties\bin\Debug\CH01.StaticProperties.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01.StaticProperties\obj\x86\Debug\MainWindow.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01.StaticProperties\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01.StaticProperties\obj\x86\Debug\App.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01.StaticProperties\obj\x86\Debug\CH01.StaticProperties_MarkupCompile.cache
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01.StaticProperties\obj\x86\Debug\CH01.StaticProperties.g.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01.StaticProperties\obj\x86\Debug\CH01.StaticProperties.Properties.Resources.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01.StaticProperties\obj\x86\Debug\CH01.StaticProperties.csproj.GenerateResource.Cache
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01.StaticProperties\obj\x86\Debug\CH01.StaticProperties.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01.StaticProperties\obj\x86\Debug\CH01.StaticProperties.pdb

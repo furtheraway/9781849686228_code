@@ -1,0 +1,13 @@
+C:\Users\Pavel\Documents\WPFBook\Chapter02\CH02\CH02.ManagingResources\bin\Debug\CH02.ManagingResources.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter02\CH02\CH02.ManagingResources\bin\Debug\CH02.ManagingResources.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter02\CH02\CH02.ManagingResources\obj\x86\Debug\MainWindow.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter02\CH02\CH02.ManagingResources\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter02\CH02\CH02.ManagingResources\obj\x86\Debug\App.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter02\CH02\CH02.ManagingResources\obj\x86\Debug\CH02.ManagingResources_MarkupCompile.cache
+C:\Users\Pavel\Documents\WPFBook\Chapter02\CH02\CH02.ManagingResources\obj\x86\Debug\CH02.ManagingResources.g.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter02\CH02\CH02.ManagingResources\obj\x86\Debug\CH02.ManagingResources.Properties.Resources.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter02\CH02\CH02.ManagingResources\obj\x86\Debug\CH02.ManagingResources.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter02\CH02\CH02.ManagingResources\obj\x86\Debug\CH02.ManagingResources.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter02\CH02\CH02.ManagingResources\obj\x86\Debug\App.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter02\CH02\CH02.ManagingResources\obj\x86\Debug\Resources\Brushes.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter02\CH02\CH02.ManagingResources\obj\x86\Debug\CH02.ManagingResources.csproj.GenerateResource.Cache

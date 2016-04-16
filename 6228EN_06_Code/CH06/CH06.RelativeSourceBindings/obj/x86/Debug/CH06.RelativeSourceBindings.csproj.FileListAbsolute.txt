@@ -1,0 +1,11 @@
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.RelativeSourceBindings\bin\Debug\CH06.RelativeSourceBindings.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.RelativeSourceBindings\bin\Debug\CH06.RelativeSourceBindings.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.RelativeSourceBindings\obj\x86\Debug\MainWindow.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.RelativeSourceBindings\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.RelativeSourceBindings\obj\x86\Debug\App.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.RelativeSourceBindings\obj\x86\Debug\CH06.RelativeSourceBindings_MarkupCompile.cache
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.RelativeSourceBindings\obj\x86\Debug\CH06.RelativeSourceBindings.g.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.RelativeSourceBindings\obj\x86\Debug\CH06.RelativeSourceBindings.Properties.Resources.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.RelativeSourceBindings\obj\x86\Debug\CH06.RelativeSourceBindings.csproj.GenerateResource.Cache
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.RelativeSourceBindings\obj\x86\Debug\CH06.RelativeSourceBindings.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.RelativeSourceBindings\obj\x86\Debug\CH06.RelativeSourceBindings.pdb

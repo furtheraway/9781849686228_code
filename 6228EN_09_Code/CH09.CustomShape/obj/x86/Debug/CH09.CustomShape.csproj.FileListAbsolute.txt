@@ -1,0 +1,13 @@
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.CustomShape\bin\Debug\CH09.CustomShape.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.CustomShape\bin\Debug\CH09.CustomShape.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.CustomShape\obj\x86\Debug\MainWindow.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.CustomShape\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.CustomShape\obj\x86\Debug\App.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.CustomShape\obj\x86\Debug\CH09.CustomShape_MarkupCompile.cache
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.CustomShape\obj\x86\Debug\CH09.CustomShape.g.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.CustomShape\obj\x86\Debug\CH09.CustomShape.Properties.Resources.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.CustomShape\obj\x86\Debug\CH09.CustomShape.csproj.GenerateResource.Cache
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.CustomShape\obj\x86\Debug\CH09.CustomShape.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.CustomShape\obj\x86\Debug\CH09.CustomShape.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.CustomShape\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.CustomShape\obj\x86\Debug\CH09.CustomShape_MarkupCompile.lref

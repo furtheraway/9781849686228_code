@@ -1,0 +1,11 @@
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.MandelbrotSet\bin\Debug\CH09.MandelbrotSet.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.MandelbrotSet\bin\Debug\CH09.MandelbrotSet.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.MandelbrotSet\obj\x86\Debug\MainWindow.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.MandelbrotSet\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.MandelbrotSet\obj\x86\Debug\App.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.MandelbrotSet\obj\x86\Debug\CH09.MandelbrotSet_MarkupCompile.cache
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.MandelbrotSet\obj\x86\Debug\CH09.MandelbrotSet.g.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.MandelbrotSet\obj\x86\Debug\CH09.MandelbrotSet.Properties.Resources.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.MandelbrotSet\obj\x86\Debug\CH09.MandelbrotSet.csproj.GenerateResource.Cache
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.MandelbrotSet\obj\x86\Debug\CH09.MandelbrotSet.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.MandelbrotSet\obj\x86\Debug\CH09.MandelbrotSet.pdb

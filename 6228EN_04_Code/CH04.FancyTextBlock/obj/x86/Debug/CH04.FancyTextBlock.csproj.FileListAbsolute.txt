@@ -1,0 +1,11 @@
+C:\Users\Pavel\Documents\WPFBook\Chapter04\CH04\CH04.FancyTextBlock\bin\Debug\CH04.FancyTextBlock.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter04\CH04\CH04.FancyTextBlock\bin\Debug\CH04.FancyTextBlock.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter04\CH04\CH04.FancyTextBlock\obj\x86\Debug\MainWindow.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter04\CH04\CH04.FancyTextBlock\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter04\CH04\CH04.FancyTextBlock\obj\x86\Debug\App.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter04\CH04\CH04.FancyTextBlock\obj\x86\Debug\CH04.FancyTextBlock_MarkupCompile.cache
+C:\Users\Pavel\Documents\WPFBook\Chapter04\CH04\CH04.FancyTextBlock\obj\x86\Debug\CH04.FancyTextBlock.g.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter04\CH04\CH04.FancyTextBlock\obj\x86\Debug\CH04.FancyTextBlock.Properties.Resources.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter04\CH04\CH04.FancyTextBlock\obj\x86\Debug\CH04.FancyTextBlock.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter04\CH04\CH04.FancyTextBlock\obj\x86\Debug\CH04.FancyTextBlock.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter04\CH04\CH04.FancyTextBlock\obj\x86\Debug\CH04.FancyTextBlock.csproj.GenerateResource.Cache

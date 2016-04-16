@@ -1,0 +1,25 @@
+﻿<Window x:Class="CH05.DefaultButtons.LoginWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Login" SizeToContent="Height" Width="300" ResizeMode="NoResize">
+    <Grid TextBlock.FontSize="14">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto" />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <TextBlock Text="Username:" Margin="4" VerticalAlignment="Center"/>
+        <TextBox Grid.Column="1" Margin="4" x:Name="_username"/>
+        <TextBlock Text="Password:" Grid.Row="1" Margin="4" VerticalAlignment="Center"/>
+        <PasswordBox Grid.Column="1" Grid.Row="1" Margin="4" x:Name="_password"/>
+        <StackPanel Orientation="Horizontal" Grid.Row="2" Grid.ColumnSpan="2" 
+                    HorizontalAlignment="Center" Margin="4,20,4,4">
+            <Button Content="Login" IsDefault="True" Margin="4" Click="OnLogin"/>
+            <Button Content="Cancel" IsCancel="True" Margin="10,4"/>
+        </StackPanel>
+    </Grid>
+</Window>

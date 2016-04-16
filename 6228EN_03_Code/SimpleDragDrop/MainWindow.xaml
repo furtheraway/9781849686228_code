@@ -1,0 +1,28 @@
+﻿<Window x:Class="CH03.SimpleDragDrop.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="450" Width="600">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="40" />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        <Border BorderThickness="2" BorderBrush="Black">
+            <Canvas x:Name="_source" Background="White" 
+                MouseLeftButtonDown="OnBeginDrag" />
+        </Border>
+        <Border BorderBrush="Black" BorderThickness="2" Grid.Column="2" >
+            <WrapPanel ItemWidth="50" ItemHeight="50" x:Name="_target"
+                    Background="Yellow" AllowDrop="True"
+                    Drop="OnDrop" DragEnter="OnDragEnter" DragOver="OnDragEnter" DragLeave="OnDragEnter">
+
+            </WrapPanel>
+        </Border>
+        <CheckBox Margin="10,4" Content="Allow ellipses only" FontSize="16" x:Name="_allowEllipsesOnly" Grid.Row="1"/>
+    </Grid>
+</Window>

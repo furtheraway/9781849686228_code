@@ -1,0 +1,13 @@
+C:\Users\Pavel\Documents\WPFBook\Chapter02\CH02\CH02.BinaryResources\bin\Debug\CH02.BinaryResources.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter02\CH02\CH02.BinaryResources\bin\Debug\CH02.BinaryResources.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter02\CH02\CH02.BinaryResources\obj\x86\Debug\MainWindow.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter02\CH02\CH02.BinaryResources\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter02\CH02\CH02.BinaryResources\obj\x86\Debug\App.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter02\CH02\CH02.BinaryResources\obj\x86\Debug\CH02.BinaryResources_MarkupCompile.cache
+C:\Users\Pavel\Documents\WPFBook\Chapter02\CH02\CH02.BinaryResources\obj\x86\Debug\CH02.BinaryResources.g.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter02\CH02\CH02.BinaryResources\obj\x86\Debug\CH02.BinaryResources.Properties.Resources.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter02\CH02\CH02.BinaryResources\obj\x86\Debug\CH02.BinaryResources.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter02\CH02\CH02.BinaryResources\obj\x86\Debug\CH02.BinaryResources.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter02\CH02\CH02.BinaryResources\bin\Debug\Images\Jellyfish.jpg
+C:\Users\Pavel\Documents\WPFBook\Chapter02\CH02\CH02.BinaryResources\obj\x86\Debug\CH02.BinaryResources_Content.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter02\CH02\CH02.BinaryResources\obj\x86\Debug\CH02.BinaryResources.csproj.GenerateResource.Cache

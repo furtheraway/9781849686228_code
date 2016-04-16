@@ -1,0 +1,13 @@
+C:\Users\Pavel\Documents\WPFBook\Chapter10\CH10\CH10.CustomPanel\obj\x86\Debug\MainWindow.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter10\CH10\CH10.CustomPanel\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter10\CH10\CH10.CustomPanel\obj\x86\Debug\App.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter10\CH10\CH10.CustomPanel\obj\x86\Debug\CH10.CustomPanel_MarkupCompile.cache
+C:\Users\Pavel\Documents\WPFBook\Chapter10\CH10\CH10.CustomPanel\obj\x86\Debug\CH10.CustomPanel.g.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter10\CH10\CH10.CustomPanel\obj\x86\Debug\CH10.CustomPanel.Properties.Resources.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter10\CH10\CH10.CustomPanel\obj\x86\Debug\CH10.CustomPanel.csproj.GenerateResource.Cache
+C:\Users\Pavel\Documents\WPFBook\Chapter10\CH10\CH10.CustomPanel\bin\Debug\CH10.CustomPanel.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter10\CH10\CH10.CustomPanel\bin\Debug\CH10.CustomPanel.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter10\CH10\CH10.CustomPanel\obj\x86\Debug\CH10.CustomPanel.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter10\CH10\CH10.CustomPanel\obj\x86\Debug\CH10.CustomPanel.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter10\CH10\CH10.CustomPanel\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter10\CH10\CH10.CustomPanel\obj\x86\Debug\CH10.CustomPanel_MarkupCompile.lref

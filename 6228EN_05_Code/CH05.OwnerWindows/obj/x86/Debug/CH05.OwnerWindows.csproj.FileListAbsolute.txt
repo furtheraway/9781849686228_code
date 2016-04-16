@@ -1,0 +1,13 @@
+C:\Users\Pavel\Documents\WPFBook\Chapter05\CH05\CH05.OwnerWindows\bin\Debug\CH05.OwnerWindows.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter05\CH05\CH05.OwnerWindows\bin\Debug\CH05.OwnerWindows.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter05\CH05\CH05.OwnerWindows\obj\x86\Debug\MainWindow.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter05\CH05\CH05.OwnerWindows\obj\x86\Debug\ToolsWindow.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter05\CH05\CH05.OwnerWindows\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter05\CH05\CH05.OwnerWindows\obj\x86\Debug\ToolsWindow.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter05\CH05\CH05.OwnerWindows\obj\x86\Debug\App.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter05\CH05\CH05.OwnerWindows\obj\x86\Debug\CH05.OwnerWindows_MarkupCompile.cache
+C:\Users\Pavel\Documents\WPFBook\Chapter05\CH05\CH05.OwnerWindows\obj\x86\Debug\CH05.OwnerWindows.g.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter05\CH05\CH05.OwnerWindows\obj\x86\Debug\CH05.OwnerWindows.Properties.Resources.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter05\CH05\CH05.OwnerWindows\obj\x86\Debug\CH05.OwnerWindows.csproj.GenerateResource.Cache
+C:\Users\Pavel\Documents\WPFBook\Chapter05\CH05\CH05.OwnerWindows\obj\x86\Debug\CH05.OwnerWindows.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter05\CH05\CH05.OwnerWindows\obj\x86\Debug\CH05.OwnerWindows.pdb

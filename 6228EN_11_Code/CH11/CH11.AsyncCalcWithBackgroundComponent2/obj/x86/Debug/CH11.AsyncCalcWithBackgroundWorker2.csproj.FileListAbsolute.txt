@@ -1,0 +1,11 @@
+C:\Users\Pavel\Documents\WPFBook\Chapter11\CH11\CH11.AsyncCalcWithBackgroundComponent2\obj\x86\Debug\CH11.AsyncCalcWithBackgroundWorker.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter11\CH11\CH11.AsyncCalcWithBackgroundComponent2\obj\x86\Debug\CH11.AsyncCalcWithBackgroundWorker.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter11\CH11\CH11.AsyncCalcWithBackgroundComponent2\obj\x86\Debug\MainWindow.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter11\CH11\CH11.AsyncCalcWithBackgroundComponent2\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter11\CH11\CH11.AsyncCalcWithBackgroundComponent2\obj\x86\Debug\App.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter11\CH11\CH11.AsyncCalcWithBackgroundComponent2\obj\x86\Debug\CH11.AsyncCalcWithBackgroundWorker_MarkupCompile.cache
+C:\Users\Pavel\Documents\WPFBook\Chapter11\CH11\CH11.AsyncCalcWithBackgroundComponent2\obj\x86\Debug\CH11.AsyncCalcWithBackgroundWorker.g.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter11\CH11\CH11.AsyncCalcWithBackgroundComponent2\obj\x86\Debug\CH11.AsyncCalcWithBackgroundWorker.Properties.Resources.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter11\CH11\CH11.AsyncCalcWithBackgroundComponent2\obj\x86\Debug\CH11.AsyncCalcWithBackgroundWorker2.csproj.GenerateResource.Cache
+C:\Users\Pavel\Documents\WPFBook\Chapter11\CH11\CH11.AsyncCalcWithBackgroundComponent2\bin\Debug\CH11.AsyncCalcWithBackgroundWorker.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter11\CH11\CH11.AsyncCalcWithBackgroundComponent2\bin\Debug\CH11.AsyncCalcWithBackgroundWorker.pdb

@@ -1,0 +1,8 @@
+<Modules>
+  <Module PersistentId="68206B86-A0BD-48CA-8C8E-ECF448C10B4A" ModuleId="CH05.UnhandledExceptions" />
+  <Module PersistentId="E1D62AEC-5527-443E-B473-D91DDB1EB774" ModuleId="CH05.Dialogs" />
+  <Module PersistentId="03454281-A0CE-408C-8161-17E43F8915EB" ModuleId="CH05.NewWindows" />
+  <Module PersistentId="PresentationFramework, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" ModuleId="PresentationFramework" />
+  <Module PersistentId="C84BAEC1-6326-46C8-AFA3-66853C721BC3" ModuleId="CH05.DefaultButtons" />
+  <Module PersistentId="AD92A84F-EE2A-4081-A426-9445A400B531" ModuleId="CH05.OwnerWindows" />
+</Modules>

@@ -1,0 +1,14 @@
+C:\Users\Pavel\Documents\WPFBook\Chapter05\CH05\CH05.Dialogs\bin\Debug\CH05.Dialogs.exe.config
+C:\Users\Pavel\Documents\WPFBook\Chapter05\CH05\CH05.Dialogs\bin\Debug\CH05.Dialogs.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter05\CH05\CH05.Dialogs\bin\Debug\CH05.Dialogs.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter05\CH05\CH05.Dialogs\obj\x86\Debug\MainWindow.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter05\CH05\CH05.Dialogs\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter05\CH05\CH05.Dialogs\obj\x86\Debug\App.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter05\CH05\CH05.Dialogs\obj\x86\Debug\CH05.Dialogs_MarkupCompile.cache
+C:\Users\Pavel\Documents\WPFBook\Chapter05\CH05\CH05.Dialogs\obj\x86\Debug\CH05.Dialogs.g.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter05\CH05\CH05.Dialogs\obj\x86\Debug\CH05.Dialogs.Properties.Resources.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter05\CH05\CH05.Dialogs\obj\x86\Debug\CH05.Dialogs.csproj.GenerateResource.Cache
+C:\Users\Pavel\Documents\WPFBook\Chapter05\CH05\CH05.Dialogs\obj\x86\Debug\CH05.Dialogs.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter05\CH05\CH05.Dialogs\obj\x86\Debug\CH05.Dialogs.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter05\CH05\CH05.Dialogs\obj\x86\Debug\DetailsDialog.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter05\CH05\CH05.Dialogs\obj\x86\Debug\DetailsDialog.g.cs

@@ -1,0 +1,11 @@
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.PaintingCircles\bin\Debug\CH03.PaintingCircles.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.PaintingCircles\bin\Debug\CH03.PaintingCircles.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.PaintingCircles\obj\x86\Debug\MainWindow.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.PaintingCircles\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.PaintingCircles\obj\x86\Debug\App.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.PaintingCircles\obj\x86\Debug\CH03.PaintingCircles_MarkupCompile.cache
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.PaintingCircles\obj\x86\Debug\CH03.PaintingCircles.g.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.PaintingCircles\obj\x86\Debug\CH03.PaintingCircles.Properties.Resources.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.PaintingCircles\obj\x86\Debug\CH03.PaintingCircles.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.PaintingCircles\obj\x86\Debug\CH03.PaintingCircles.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.PaintingCircles\obj\x86\Debug\CH03.PaintingCircles.csproj.GenerateResource.Cache

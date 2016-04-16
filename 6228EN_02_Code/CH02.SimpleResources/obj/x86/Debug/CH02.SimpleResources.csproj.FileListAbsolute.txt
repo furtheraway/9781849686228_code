@@ -1,0 +1,12 @@
+C:\Users\Pavel\Documents\WPFBook\Chapter02\CH02\CH02.SimpleResources\bin\Debug\CH02.SimpleResources.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter02\CH02\CH02.SimpleResources\bin\Debug\CH02.SimpleResources.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter02\CH02\CH02.SimpleResources\obj\x86\Debug\MainWindow.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter02\CH02\CH02.SimpleResources\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter02\CH02\CH02.SimpleResources\obj\x86\Debug\App.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter02\CH02\CH02.SimpleResources\obj\x86\Debug\CH02.SimpleResources_MarkupCompile.cache
+C:\Users\Pavel\Documents\WPFBook\Chapter02\CH02\CH02.SimpleResources\obj\x86\Debug\CH02.SimpleResources.g.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter02\CH02\CH02.SimpleResources\obj\x86\Debug\CH02.SimpleResources.Properties.Resources.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter02\CH02\CH02.SimpleResources\obj\x86\Debug\CH02.SimpleResources.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter02\CH02\CH02.SimpleResources\obj\x86\Debug\CH02.SimpleResources.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter02\CH02\CH02.SimpleResources\obj\x86\Debug\App.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter02\CH02\CH02.SimpleResources\obj\x86\Debug\CH02.SimpleResources.csproj.GenerateResource.Cache

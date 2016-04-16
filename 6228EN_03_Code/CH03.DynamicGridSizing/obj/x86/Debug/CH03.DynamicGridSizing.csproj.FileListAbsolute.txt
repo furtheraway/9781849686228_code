@@ -1,0 +1,11 @@
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.DynamicGridSizing\bin\Debug\CH03.DynamicGridSizing.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.DynamicGridSizing\bin\Debug\CH03.DynamicGridSizing.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.DynamicGridSizing\obj\x86\Debug\MainWindow.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.DynamicGridSizing\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.DynamicGridSizing\obj\x86\Debug\App.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.DynamicGridSizing\obj\x86\Debug\CH03.DynamicGridSizing_MarkupCompile.cache
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.DynamicGridSizing\obj\x86\Debug\CH03.DynamicGridSizing.g.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.DynamicGridSizing\obj\x86\Debug\CH03.DynamicGridSizing.Properties.Resources.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.DynamicGridSizing\obj\x86\Debug\CH03.DynamicGridSizing.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.DynamicGridSizing\obj\x86\Debug\CH03.DynamicGridSizing.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.DynamicGridSizing\obj\x86\Debug\CH03.DynamicGridSizing.csproj.GenerateResource.Cache

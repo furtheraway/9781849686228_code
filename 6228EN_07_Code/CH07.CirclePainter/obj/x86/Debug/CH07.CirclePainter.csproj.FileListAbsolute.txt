@@ -1,0 +1,15 @@
+C:\Users\Pavel\Documents\WPFBook\Chapter07\CH07\CH07.CirclePainter\bin\Debug\CH07.CirclePainter.exe.config
+C:\Users\Pavel\Documents\WPFBook\Chapter07\CH07\CH07.CirclePainter\bin\Debug\CH07.CirclePainter.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter07\CH07\CH07.CirclePainter\bin\Debug\CH07.CirclePainter.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter07\CH07\CH07.CirclePainter\obj\x86\Debug\MainWindow.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter07\CH07\CH07.CirclePainter\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter07\CH07\CH07.CirclePainter\obj\x86\Debug\App.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter07\CH07\CH07.CirclePainter\obj\x86\Debug\CH07.CirclePainter_MarkupCompile.cache
+C:\Users\Pavel\Documents\WPFBook\Chapter07\CH07\CH07.CirclePainter\obj\x86\Debug\CH07.CirclePainter.g.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter07\CH07\CH07.CirclePainter\obj\x86\Debug\CH07.CirclePainter.Properties.Resources.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter07\CH07\CH07.CirclePainter\obj\x86\Debug\CH07.CirclePainter.csproj.GenerateResource.Cache
+C:\Users\Pavel\Documents\WPFBook\Chapter07\CH07\CH07.CirclePainter\obj\x86\Debug\CH07.CirclePainter.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter07\CH07\CH07.CirclePainter\obj\x86\Debug\CH07.CirclePainter.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter07\CH07\CH07.CirclePainter\bin\Debug\CH07.CookbookMVVM.dll
+C:\Users\Pavel\Documents\WPFBook\Chapter07\CH07\CH07.CirclePainter\bin\Debug\CH07.CookbookMVVM.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter07\CH07\CH07.CirclePainter\obj\x86\Debug\CH07.CirclePainter.csprojResolveAssemblyReference.cache

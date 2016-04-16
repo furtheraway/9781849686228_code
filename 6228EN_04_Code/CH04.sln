@@ -1,0 +1,92 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH04.TextControls", "CH04.TextControls\CH04.TextControls.csproj", "{2A6E31A8-1D56-43AE-8B59-C95B3506065B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH04.FancyTextBlock", "CH04.FancyTextBlock\CH04.FancyTextBlock.csproj", "{F89DB014-F16D-41E9-AB0E-7D01E0A34151}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH04.ContentControls", "CH04.ContentControls\CH04.ContentControls.csproj", "{4A6D9EBB-5828-4999-82A1-843E3EC4F306}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH04.Images", "CH04.Images\CH04.Images.csproj", "{AE511C45-DEEE-481C-9688-F48584A6B756}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH04.HeaderedContentControls", "CH04.HeaderedContentControls\CH04.HeaderedContentControls.csproj", "{3F2B053A-C557-48BD-8D32-559704667067}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH04.StretchEffects", "CH04.StretchEffects\CH04.StretchEffects.csproj", "{44BE606C-5FFB-4FB5-84F0-CC3EAD8080E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH04.ImageSources", "CH04.ImageSources\CH04.ImageSources.csproj", "{7D533C3B-5DB7-45EA-82AB-7CBBF3427A3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH04.ToolTips", "CH04.ToolTips\CH04.ToolTips.csproj", "{800B473A-A7AD-4D4A-8D10-6FE3AB945F33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH04.Lists", "CH04.Lists\CH04.Lists.csproj", "{1B1312B4-8857-41FC-AF33-EEC221675BFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH04.Lists2", "CH04.Lists2\CH04.Lists2.csproj", "{824CFD91-5D01-430A-82E0-C6EBCD877D80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH04.Menus", "CH04.Menus\CH04.Menus.csproj", "{51E5CD95-C2B8-47C4-A32E-164E197E8EDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH04.SelectingOptions", "CH04.SelectingOptions\CH04.SelectingOptions.csproj", "{E08F9C2A-08AB-4F5A-B708-17C1D891A285}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH04.TabAndFocus", "CH04.TabAndFocus\CH04.TabAndFocus.csproj", "{E1DE1ECB-7EFB-4DC1-8C96-EF927A8BE3BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A6E31A8-1D56-43AE-8B59-C95B3506065B}.Debug|x86.ActiveCfg = Debug|x86
+		{2A6E31A8-1D56-43AE-8B59-C95B3506065B}.Debug|x86.Build.0 = Debug|x86
+		{2A6E31A8-1D56-43AE-8B59-C95B3506065B}.Release|x86.ActiveCfg = Release|x86
+		{2A6E31A8-1D56-43AE-8B59-C95B3506065B}.Release|x86.Build.0 = Release|x86
+		{F89DB014-F16D-41E9-AB0E-7D01E0A34151}.Debug|x86.ActiveCfg = Debug|x86
+		{F89DB014-F16D-41E9-AB0E-7D01E0A34151}.Debug|x86.Build.0 = Debug|x86
+		{F89DB014-F16D-41E9-AB0E-7D01E0A34151}.Release|x86.ActiveCfg = Release|x86
+		{F89DB014-F16D-41E9-AB0E-7D01E0A34151}.Release|x86.Build.0 = Release|x86
+		{4A6D9EBB-5828-4999-82A1-843E3EC4F306}.Debug|x86.ActiveCfg = Debug|x86
+		{4A6D9EBB-5828-4999-82A1-843E3EC4F306}.Debug|x86.Build.0 = Debug|x86
+		{4A6D9EBB-5828-4999-82A1-843E3EC4F306}.Release|x86.ActiveCfg = Release|x86
+		{4A6D9EBB-5828-4999-82A1-843E3EC4F306}.Release|x86.Build.0 = Release|x86
+		{AE511C45-DEEE-481C-9688-F48584A6B756}.Debug|x86.ActiveCfg = Debug|x86
+		{AE511C45-DEEE-481C-9688-F48584A6B756}.Debug|x86.Build.0 = Debug|x86
+		{AE511C45-DEEE-481C-9688-F48584A6B756}.Release|x86.ActiveCfg = Release|x86
+		{AE511C45-DEEE-481C-9688-F48584A6B756}.Release|x86.Build.0 = Release|x86
+		{3F2B053A-C557-48BD-8D32-559704667067}.Debug|x86.ActiveCfg = Debug|x86
+		{3F2B053A-C557-48BD-8D32-559704667067}.Debug|x86.Build.0 = Debug|x86
+		{3F2B053A-C557-48BD-8D32-559704667067}.Release|x86.ActiveCfg = Release|x86
+		{3F2B053A-C557-48BD-8D32-559704667067}.Release|x86.Build.0 = Release|x86
+		{44BE606C-5FFB-4FB5-84F0-CC3EAD8080E2}.Debug|x86.ActiveCfg = Debug|x86
+		{44BE606C-5FFB-4FB5-84F0-CC3EAD8080E2}.Debug|x86.Build.0 = Debug|x86
+		{44BE606C-5FFB-4FB5-84F0-CC3EAD8080E2}.Release|x86.ActiveCfg = Release|x86
+		{44BE606C-5FFB-4FB5-84F0-CC3EAD8080E2}.Release|x86.Build.0 = Release|x86
+		{7D533C3B-5DB7-45EA-82AB-7CBBF3427A3C}.Debug|x86.ActiveCfg = Debug|x86
+		{7D533C3B-5DB7-45EA-82AB-7CBBF3427A3C}.Debug|x86.Build.0 = Debug|x86
+		{7D533C3B-5DB7-45EA-82AB-7CBBF3427A3C}.Release|x86.ActiveCfg = Release|x86
+		{7D533C3B-5DB7-45EA-82AB-7CBBF3427A3C}.Release|x86.Build.0 = Release|x86
+		{800B473A-A7AD-4D4A-8D10-6FE3AB945F33}.Debug|x86.ActiveCfg = Debug|x86
+		{800B473A-A7AD-4D4A-8D10-6FE3AB945F33}.Debug|x86.Build.0 = Debug|x86
+		{800B473A-A7AD-4D4A-8D10-6FE3AB945F33}.Release|x86.ActiveCfg = Release|x86
+		{800B473A-A7AD-4D4A-8D10-6FE3AB945F33}.Release|x86.Build.0 = Release|x86
+		{1B1312B4-8857-41FC-AF33-EEC221675BFC}.Debug|x86.ActiveCfg = Debug|x86
+		{1B1312B4-8857-41FC-AF33-EEC221675BFC}.Debug|x86.Build.0 = Debug|x86
+		{1B1312B4-8857-41FC-AF33-EEC221675BFC}.Release|x86.ActiveCfg = Release|x86
+		{1B1312B4-8857-41FC-AF33-EEC221675BFC}.Release|x86.Build.0 = Release|x86
+		{824CFD91-5D01-430A-82E0-C6EBCD877D80}.Debug|x86.ActiveCfg = Debug|x86
+		{824CFD91-5D01-430A-82E0-C6EBCD877D80}.Debug|x86.Build.0 = Debug|x86
+		{824CFD91-5D01-430A-82E0-C6EBCD877D80}.Release|x86.ActiveCfg = Release|x86
+		{824CFD91-5D01-430A-82E0-C6EBCD877D80}.Release|x86.Build.0 = Release|x86
+		{51E5CD95-C2B8-47C4-A32E-164E197E8EDA}.Debug|x86.ActiveCfg = Debug|x86
+		{51E5CD95-C2B8-47C4-A32E-164E197E8EDA}.Debug|x86.Build.0 = Debug|x86
+		{51E5CD95-C2B8-47C4-A32E-164E197E8EDA}.Release|x86.ActiveCfg = Release|x86
+		{51E5CD95-C2B8-47C4-A32E-164E197E8EDA}.Release|x86.Build.0 = Release|x86
+		{E08F9C2A-08AB-4F5A-B708-17C1D891A285}.Debug|x86.ActiveCfg = Debug|x86
+		{E08F9C2A-08AB-4F5A-B708-17C1D891A285}.Debug|x86.Build.0 = Debug|x86
+		{E08F9C2A-08AB-4F5A-B708-17C1D891A285}.Release|x86.ActiveCfg = Release|x86
+		{E08F9C2A-08AB-4F5A-B708-17C1D891A285}.Release|x86.Build.0 = Release|x86
+		{E1DE1ECB-7EFB-4DC1-8C96-EF927A8BE3BE}.Debug|x86.ActiveCfg = Debug|x86
+		{E1DE1ECB-7EFB-4DC1-8C96-EF927A8BE3BE}.Debug|x86.Build.0 = Debug|x86
+		{E1DE1ECB-7EFB-4DC1-8C96-EF927A8BE3BE}.Release|x86.ActiveCfg = Release|x86
+		{E1DE1ECB-7EFB-4DC1-8C96-EF927A8BE3BE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

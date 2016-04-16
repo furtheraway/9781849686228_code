@@ -1,0 +1,55 @@
+﻿<Window x:Class="CH08.CustomItemsPanel.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="List Box Views" Height="350" Width="525">
+    <Window.Resources>
+        <ItemsPanelTemplate x:Key="1">
+            <StackPanel />
+        </ItemsPanelTemplate>
+        <ItemsPanelTemplate x:Key="2">
+            <StackPanel Orientation="Horizontal"/>
+        </ItemsPanelTemplate>
+        <ItemsPanelTemplate x:Key="3">
+            <WrapPanel ItemWidth="50" ItemHeight="50"/>
+        </ItemsPanelTemplate>
+        <ItemsPanelTemplate x:Key="4">
+            <UniformGrid Rows="5" Columns="6" />
+        </ItemsPanelTemplate>
+    </Window.Resources>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition Width="Auto"/>
+        </Grid.ColumnDefinitions>
+        <ListBox x:Name="_list" >
+            <Ellipse Fill="Red" Stroke="Black" StrokeThickness="1" Width="40" Height="40"/>
+            <Ellipse Fill="Blue" Stroke="Black" StrokeThickness="1" Width="40" Height="40"/>
+            <Ellipse Fill="Red" Stroke="Black" StrokeThickness="1" Width="40" Height="40"/>
+            <Ellipse Fill="Green" Stroke="Black" StrokeThickness="1" Width="40" Height="40"/>
+            <Ellipse Fill="Red" Stroke="Black" StrokeThickness="1" Width="40" Height="40"/>
+            <Ellipse Fill="Yellow" Stroke="Black" StrokeThickness="1" Width="40" Height="40"/>
+            <Ellipse Fill="Gray" Stroke="Black" StrokeThickness="1" Width="40" Height="40"/>
+            <Ellipse Fill="Orange" Stroke="Black" StrokeThickness="1" Width="40" Height="40"/>
+            <Ellipse Fill="Red" Stroke="Black" StrokeThickness="1" Width="40" Height="40"/>
+            <Ellipse Fill="Black" Stroke="Black" StrokeThickness="1" Width="40" Height="40"/>
+            <Ellipse Fill="Brown" Stroke="Black" StrokeThickness="1" Width="40" Height="40"/>
+            <Ellipse Fill="Red" Stroke="Black" StrokeThickness="1" Width="40" Height="40"/>
+            <Ellipse Fill="Blue" Stroke="Black" StrokeThickness="1" Width="40" Height="40"/>
+            <Ellipse Fill="Red" Stroke="Black" StrokeThickness="1" Width="40" Height="40"/>
+            <Ellipse Fill="Green" Stroke="Black" StrokeThickness="1" Width="40" Height="40"/>
+            <Ellipse Fill="Red" Stroke="Black" StrokeThickness="1" Width="40" Height="40"/>
+            <Ellipse Fill="Yellow" Stroke="Black" StrokeThickness="1" Width="40" Height="40"/>
+            <Ellipse Fill="Gray" Stroke="Black" StrokeThickness="1" Width="40" Height="40"/>
+            <Ellipse Fill="Yellow" Stroke="Black" StrokeThickness="1" Width="40" Height="40"/>
+            <Ellipse Fill="Gray" Stroke="Black" StrokeThickness="1" Width="40" Height="40"/>
+            <Ellipse Fill="Orange" Stroke="Black" StrokeThickness="1" Width="40" Height="40"/>
+            <Ellipse Fill="Red" Stroke="Black" StrokeThickness="1" Width="40" Height="40"/>
+        </ListBox>
+        <StackPanel Grid.Column="1" ButtonBase.Click="OnChangeView" TextBlock.FontSize="15" Margin="4">
+            <RadioButton Content="Vertical StackPanel" Tag="1" Margin="0,6,0,0" IsChecked="True"/>
+            <RadioButton Content="Horizontal StackPanel" Tag="2" Margin="0,6,0,0"/>
+            <RadioButton Content="WrapPanel" Tag="3" Margin="0,6,0,0"/>
+            <RadioButton Content="UniformGrid" Tag="4" Margin="0,6,0,0"/>
+        </StackPanel>
+    </Grid>
+</Window>

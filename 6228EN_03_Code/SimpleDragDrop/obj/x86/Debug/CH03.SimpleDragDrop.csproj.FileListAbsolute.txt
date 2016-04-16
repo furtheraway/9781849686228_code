@@ -1,0 +1,11 @@
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\SimpleDragDrop\bin\Debug\CH03.SimpleDragDrop.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\SimpleDragDrop\bin\Debug\CH03.SimpleDragDrop.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\SimpleDragDrop\obj\x86\Debug\MainWindow.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\SimpleDragDrop\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\SimpleDragDrop\obj\x86\Debug\App.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\SimpleDragDrop\obj\x86\Debug\CH03.SimpleDragDrop_MarkupCompile.cache
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\SimpleDragDrop\obj\x86\Debug\CH03.SimpleDragDrop.g.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\SimpleDragDrop\obj\x86\Debug\CH03.SimpleDragDrop.Properties.Resources.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\SimpleDragDrop\obj\x86\Debug\CH03.SimpleDragDrop.csproj.GenerateResource.Cache
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\SimpleDragDrop\obj\x86\Debug\CH03.SimpleDragDrop.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\SimpleDragDrop\obj\x86\Debug\CH03.SimpleDragDrop.pdb

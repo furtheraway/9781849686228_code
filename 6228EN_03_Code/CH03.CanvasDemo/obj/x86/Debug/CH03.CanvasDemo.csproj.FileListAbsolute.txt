@@ -1,0 +1,11 @@
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.CanvasDemo\bin\Debug\CH03.CanvasDemo.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.CanvasDemo\bin\Debug\CH03.CanvasDemo.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.CanvasDemo\obj\x86\Debug\MainWindow.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.CanvasDemo\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.CanvasDemo\obj\x86\Debug\App.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.CanvasDemo\obj\x86\Debug\CH03.CanvasDemo_MarkupCompile.cache
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.CanvasDemo\obj\x86\Debug\CH03.CanvasDemo.g.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.CanvasDemo\obj\x86\Debug\CH03.CanvasDemo.Properties.Resources.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.CanvasDemo\obj\x86\Debug\CH03.CanvasDemo.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.CanvasDemo\obj\x86\Debug\CH03.CanvasDemo.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.CanvasDemo\obj\x86\Debug\CH03.CanvasDemo.csproj.GenerateResource.Cache

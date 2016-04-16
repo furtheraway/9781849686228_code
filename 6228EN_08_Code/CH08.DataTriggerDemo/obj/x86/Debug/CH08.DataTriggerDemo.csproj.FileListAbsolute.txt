@@ -1,0 +1,11 @@
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08.DataTriggerDemo\bin\Debug\CH08.DataTriggerDemo.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08.DataTriggerDemo\bin\Debug\CH08.DataTriggerDemo.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08.DataTriggerDemo\obj\x86\Debug\MainWindow.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08.DataTriggerDemo\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08.DataTriggerDemo\obj\x86\Debug\App.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08.DataTriggerDemo\obj\x86\Debug\CH08.DataTriggerDemo_MarkupCompile.cache
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08.DataTriggerDemo\obj\x86\Debug\CH08.DataTriggerDemo.g.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08.DataTriggerDemo\obj\x86\Debug\CH08.DataTriggerDemo.Properties.Resources.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08.DataTriggerDemo\obj\x86\Debug\CH08.DataTriggerDemo.csproj.GenerateResource.Cache
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08.DataTriggerDemo\obj\x86\Debug\CH08.DataTriggerDemo.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08.DataTriggerDemo\obj\x86\Debug\CH08.DataTriggerDemo.pdb

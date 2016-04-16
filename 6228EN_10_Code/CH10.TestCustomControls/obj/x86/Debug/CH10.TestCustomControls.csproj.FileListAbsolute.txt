@@ -1,0 +1,15 @@
+C:\Users\Pavel\Documents\WPFBook\Chapter10\CH10\CH10.TestCustomControls\bin\Debug\CH10.TestCustomControls.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter10\CH10\CH10.TestCustomControls\bin\Debug\CH10.TestCustomControls.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter10\CH10\CH10.TestCustomControls\bin\Debug\CH10.CustomControls.dll
+C:\Users\Pavel\Documents\WPFBook\Chapter10\CH10\CH10.TestCustomControls\bin\Debug\CH10.CustomControls.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter10\CH10\CH10.TestCustomControls\obj\x86\Debug\CH10.TestCustomControls.csprojResolveAssemblyReference.cache
+C:\Users\Pavel\Documents\WPFBook\Chapter10\CH10\CH10.TestCustomControls\obj\x86\Debug\MainWindow.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter10\CH10\CH10.TestCustomControls\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter10\CH10\CH10.TestCustomControls\obj\x86\Debug\App.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter10\CH10\CH10.TestCustomControls\obj\x86\Debug\CH10.TestCustomControls_MarkupCompile.cache
+C:\Users\Pavel\Documents\WPFBook\Chapter10\CH10\CH10.TestCustomControls\obj\x86\Debug\CH10.TestCustomControls.g.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter10\CH10\CH10.TestCustomControls\obj\x86\Debug\CH10.TestCustomControls.Properties.Resources.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter10\CH10\CH10.TestCustomControls\obj\x86\Debug\CH10.TestCustomControls.csproj.GenerateResource.Cache
+C:\Users\Pavel\Documents\WPFBook\Chapter10\CH10\CH10.TestCustomControls\obj\x86\Debug\CH10.TestCustomControls.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter10\CH10\CH10.TestCustomControls\obj\x86\Debug\CH10.TestCustomControls.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter10\CH10\CH10.TestCustomControls\obj\x86\Debug\App.baml

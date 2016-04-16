@@ -1,0 +1,34 @@
+﻿<Window x:Class="CH09.PathBasedAnimation.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Path Based Animation" Height="350" Width="525">
+    <Window.Resources>
+        <PathGeometry x:Key="rg">
+            <PathFigure IsClosed="True" StartPoint="20,20">
+                <PolyLineSegment Points="300,20 300,200 20,200 20,200" />
+            </PathFigure>
+        </PathGeometry>
+    </Window.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <Button Content="Start Animation" FontSize="16" Margin="8">
+            <Button.Triggers>
+                <EventTrigger RoutedEvent="Button.Click">
+                    <BeginStoryboard>
+                        <Storyboard RepeatBehavior="Forever">
+                            <DoubleAnimationUsingPath Duration="0:0:3" Storyboard.TargetName="e1" Storyboard.TargetProperty="(Canvas.Left)" PathGeometry="{StaticResource rg}" Source="X" />
+                            <DoubleAnimationUsingPath Duration="0:0:3" Storyboard.TargetName="e1" Storyboard.TargetProperty="(Canvas.Top)" PathGeometry="{StaticResource rg}" Source="Y"/>
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+            </Button.Triggers>
+        </Button>
+        <Canvas Grid.Row="1">
+            <Ellipse Fill="Red" Stroke="Black" StrokeThickness="2" Width="40" Height="40" x:Name="e1" 
+                     Canvas.Left="20" Canvas.Top="20"/>
+        </Canvas>
+    </Grid>
+</Window>

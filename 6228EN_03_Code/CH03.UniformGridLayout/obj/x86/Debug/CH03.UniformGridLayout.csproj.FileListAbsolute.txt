@@ -1,0 +1,11 @@
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.UniformGridLayout\bin\Debug\CH03.UniformGridLayout.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.UniformGridLayout\bin\Debug\CH03.UniformGridLayout.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.UniformGridLayout\obj\x86\Debug\MainWindow.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.UniformGridLayout\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.UniformGridLayout\obj\x86\Debug\App.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.UniformGridLayout\obj\x86\Debug\CH03.UniformGridLayout_MarkupCompile.cache
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.UniformGridLayout\obj\x86\Debug\CH03.UniformGridLayout.g.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.UniformGridLayout\obj\x86\Debug\CH03.UniformGridLayout.Properties.Resources.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.UniformGridLayout\obj\x86\Debug\CH03.UniformGridLayout.csproj.GenerateResource.Cache
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.UniformGridLayout\obj\x86\Debug\CH03.UniformGridLayout.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.UniformGridLayout\obj\x86\Debug\CH03.UniformGridLayout.pdb

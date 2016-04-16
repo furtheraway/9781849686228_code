@@ -1,0 +1,11 @@
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.ScrollDemo\bin\Debug\CH03.ScrollDemo.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.ScrollDemo\bin\Debug\CH03.ScrollDemo.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.ScrollDemo\obj\x86\Debug\MainWindow.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.ScrollDemo\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.ScrollDemo\obj\x86\Debug\App.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.ScrollDemo\obj\x86\Debug\CH03.ScrollDemo_MarkupCompile.cache
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.ScrollDemo\obj\x86\Debug\CH03.ScrollDemo.g.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.ScrollDemo\obj\x86\Debug\CH03.ScrollDemo.Properties.Resources.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.ScrollDemo\obj\x86\Debug\CH03.ScrollDemo.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.ScrollDemo\obj\x86\Debug\CH03.ScrollDemo.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.ScrollDemo\obj\x86\Debug\CH03.ScrollDemo.csproj.GenerateResource.Cache

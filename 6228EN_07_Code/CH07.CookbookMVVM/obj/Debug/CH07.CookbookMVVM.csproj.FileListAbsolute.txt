@@ -1,0 +1,5 @@
+C:\Users\Pavel\Documents\WPFBook\Chapter07\CH07\CH07.CookbookMVVM\bin\Debug\CH07.CookbookMVVM.dll
+C:\Users\Pavel\Documents\WPFBook\Chapter07\CH07\CH07.CookbookMVVM\bin\Debug\CH07.CookbookMVVM.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter07\CH07\CH07.CookbookMVVM\obj\Debug\CH07.CookbookMVVM.dll
+C:\Users\Pavel\Documents\WPFBook\Chapter07\CH07\CH07.CookbookMVVM\obj\Debug\CH07.CookbookMVVM.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter07\CH07\CH07.CookbookMVVM\obj\Debug\CH07.CookbookMVVM.csprojResolveAssemblyReference.cache

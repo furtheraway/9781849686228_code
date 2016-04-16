@@ -1,0 +1,27 @@
+﻿<Window x:Class="CH07.BlogReader.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Blog Reader" Height="350" Width="620" FontSize="14">
+    <Grid Margin="2">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <StackPanel Orientation="Horizontal" Panel.ZIndex="1000">
+            <TextBlock Text="Select blog to read:" VerticalAlignment="Center" Margin="2"/>
+            <ComboBox ItemsSource="{Binding Blogs}" Margin="10,0,0,0" DisplayMemberPath="Model.BlogTitle"
+                      SelectedItem="{Binding SelectedBlog, Mode=TwoWay}" Width="170">
+            </ComboBox>
+            <Button Content="Undo" Command="{Binding UndoCommand}" Margin="6,2,2,2"/>
+            <Button Content="Redo" Command="{Binding RedoCommand}" Margin="2"/>
+            <Canvas Visibility="{Binding IsSelectedBlog}" >
+                <Expander Margin="10,0,0,0" VerticalAlignment="Center" ExpandDirection="Down" Header="Blog Information"
+                      ContentTemplate="{StaticResource bloggerTemplate}"
+                      Content="{Binding SelectedBlog.Blogger}">
+                </Expander>
+            </Canvas>
+        </StackPanel>
+        <ContentControl Margin="2,10,2,2" Content="{Binding SelectedBlog}" ContentTemplate="{StaticResource blogTemplate}" 
+                        Grid.Row="1" Visibility="{Binding IsSelectedBlog}"/>
+    </Grid>
+</Window>

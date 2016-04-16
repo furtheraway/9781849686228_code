@@ -1,0 +1,15 @@
+<Modules>
+  <Module PersistentId="39DA0E7A-A285-4F64-9164-8768554DB81E" ModuleId="CH07.CirclePainter" />
+  <Module PersistentId="ABCFF69D-A27C-4C31-A6B6-95108C2C121A" ModuleId="CH07.RoutedCommands" />
+  <Module PersistentId="System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="System" />
+  <Module PersistentId="PresentationCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" ModuleId="PresentationCore" />
+  <Module PersistentId="75C1CD6A-B70C-40B6-9681-BA584274D363" ModuleId="CH07.SimpleNotepad" />
+  <Module PersistentId="E72229B8-733C-4CD0-B33D-FB62BD66CFBC" ModuleId="CH07.SimpleImageViewer" />
+  <Module PersistentId="EEC67928-BC4F-4F68-80E3-67544A2F6239" ModuleId="CH07.CookbookMVVM" />
+  <Module PersistentId="0476CB9A-176E-4625-810A-A3C381E2BAB2" ModuleId="CH07.BlogReader" />
+  <Module PersistentId="5EC3EA96-E137-4DD5-9E10-AA431F9DF4DF" ModuleId="CH07.BlogReaderTest" />
+  <Module PersistentId="Microsoft.VisualStudio.QualityTools.UnitTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" ModuleId="Microsoft.VisualStudio.QualityTools.UnitTestFramework" />
+  <Module PersistentId="EBF55AB1-8BD5-491F-BA0E-58708DAFDA8F" ModuleId="CH07.BlogReaderWithMEF" />
+  <Module PersistentId="System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="System_1" />
+  <Module PersistentId="1C4CAC0D-FF0D-48EF-934A-80A03CF15FCB" ModuleId="CH07.BlogReaderWithUndo" />
+</Modules>

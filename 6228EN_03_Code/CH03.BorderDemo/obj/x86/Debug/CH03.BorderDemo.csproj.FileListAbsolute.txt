@@ -1,0 +1,11 @@
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.BorderDemo\bin\Debug\CH03.BorderDemo.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.BorderDemo\bin\Debug\CH03.BorderDemo.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.BorderDemo\obj\x86\Debug\MainWindow.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.BorderDemo\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.BorderDemo\obj\x86\Debug\App.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.BorderDemo\obj\x86\Debug\CH03.BorderDemo_MarkupCompile.cache
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.BorderDemo\obj\x86\Debug\CH03.BorderDemo.g.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.BorderDemo\obj\x86\Debug\CH03.BorderDemo.Properties.Resources.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.BorderDemo\obj\x86\Debug\CH03.BorderDemo.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.BorderDemo\obj\x86\Debug\CH03.BorderDemo.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.BorderDemo\obj\x86\Debug\CH03.BorderDemo.csproj.GenerateResource.Cache

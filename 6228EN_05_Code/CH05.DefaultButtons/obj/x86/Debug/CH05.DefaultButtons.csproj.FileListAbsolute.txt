@@ -1,0 +1,14 @@
+C:\Users\Pavel\Documents\WPFBook\Chapter05\CH05\CH05.DefaultButtons\bin\Debug\CH05.DefaultButtons.exe.config
+C:\Users\Pavel\Documents\WPFBook\Chapter05\CH05\CH05.DefaultButtons\bin\Debug\CH05.DefaultButtons.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter05\CH05\CH05.DefaultButtons\bin\Debug\CH05.DefaultButtons.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter05\CH05\CH05.DefaultButtons\obj\x86\Debug\LoginWindow.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter05\CH05\CH05.DefaultButtons\obj\x86\Debug\MainWindow.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter05\CH05\CH05.DefaultButtons\obj\x86\Debug\LoginWindow.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter05\CH05\CH05.DefaultButtons\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter05\CH05\CH05.DefaultButtons\obj\x86\Debug\App.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter05\CH05\CH05.DefaultButtons\obj\x86\Debug\CH05.DefaultButtons_MarkupCompile.cache
+C:\Users\Pavel\Documents\WPFBook\Chapter05\CH05\CH05.DefaultButtons\obj\x86\Debug\CH05.DefaultButtons.g.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter05\CH05\CH05.DefaultButtons\obj\x86\Debug\CH05.DefaultButtons.Properties.Resources.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter05\CH05\CH05.DefaultButtons\obj\x86\Debug\CH05.DefaultButtons.csproj.GenerateResource.Cache
+C:\Users\Pavel\Documents\WPFBook\Chapter05\CH05\CH05.DefaultButtons\obj\x86\Debug\CH05.DefaultButtons.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter05\CH05\CH05.DefaultButtons\obj\x86\Debug\CH05.DefaultButtons.pdb

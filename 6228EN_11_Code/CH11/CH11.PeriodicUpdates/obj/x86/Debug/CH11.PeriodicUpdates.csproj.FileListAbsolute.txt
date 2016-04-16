@@ -1,0 +1,11 @@
+C:\Users\Pavel\Documents\WPFBook\Chapter11\CH11\CH11.PeriodicUpdates\bin\Debug\CH11.PeriodicUpdates.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter11\CH11\CH11.PeriodicUpdates\bin\Debug\CH11.PeriodicUpdates.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter11\CH11\CH11.PeriodicUpdates\obj\x86\Debug\MainWindow.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter11\CH11\CH11.PeriodicUpdates\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter11\CH11\CH11.PeriodicUpdates\obj\x86\Debug\App.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter11\CH11\CH11.PeriodicUpdates\obj\x86\Debug\CH11.PeriodicUpdates_MarkupCompile.cache
+C:\Users\Pavel\Documents\WPFBook\Chapter11\CH11\CH11.PeriodicUpdates\obj\x86\Debug\CH11.PeriodicUpdates.g.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter11\CH11\CH11.PeriodicUpdates\obj\x86\Debug\CH11.PeriodicUpdates.Properties.Resources.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter11\CH11\CH11.PeriodicUpdates\obj\x86\Debug\CH11.PeriodicUpdates.csproj.GenerateResource.Cache
+C:\Users\Pavel\Documents\WPFBook\Chapter11\CH11\CH11.PeriodicUpdates\obj\x86\Debug\CH11.PeriodicUpdates.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter11\CH11\CH11.PeriodicUpdates\obj\x86\Debug\CH11.PeriodicUpdates.pdb

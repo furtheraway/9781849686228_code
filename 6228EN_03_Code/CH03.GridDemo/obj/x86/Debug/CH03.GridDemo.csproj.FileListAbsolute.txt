@@ -1,0 +1,11 @@
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.GridDemo\bin\Debug\CH03.GridDemo.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.GridDemo\bin\Debug\CH03.GridDemo.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.GridDemo\obj\x86\Debug\MainWindow.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.GridDemo\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.GridDemo\obj\x86\Debug\App.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.GridDemo\obj\x86\Debug\CH03.GridDemo_MarkupCompile.cache
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.GridDemo\obj\x86\Debug\CH03.GridDemo.g.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.GridDemo\obj\x86\Debug\CH03.GridDemo.Properties.Resources.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.GridDemo\obj\x86\Debug\CH03.GridDemo.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.GridDemo\obj\x86\Debug\CH03.GridDemo.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.GridDemo\obj\x86\Debug\CH03.GridDemo.csproj.GenerateResource.Cache

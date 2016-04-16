@@ -1,0 +1,12 @@
+C:\Users\Pavel\Documents\WPFBook\Chapter04\CH04\CH04.TabAndFocus\bin\Debug\CH04.TabAndFocus.exe.config
+C:\Users\Pavel\Documents\WPFBook\Chapter04\CH04\CH04.TabAndFocus\bin\Debug\CH04.TabAndFocus.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter04\CH04\CH04.TabAndFocus\bin\Debug\CH04.TabAndFocus.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter04\CH04\CH04.TabAndFocus\obj\x86\Debug\MainWindow.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter04\CH04\CH04.TabAndFocus\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter04\CH04\CH04.TabAndFocus\obj\x86\Debug\App.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter04\CH04\CH04.TabAndFocus\obj\x86\Debug\CH04.TabAndFocus_MarkupCompile.cache
+C:\Users\Pavel\Documents\WPFBook\Chapter04\CH04\CH04.TabAndFocus\obj\x86\Debug\CH04.TabAndFocus.g.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter04\CH04\CH04.TabAndFocus\obj\x86\Debug\CH04.TabAndFocus.Properties.Resources.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter04\CH04\CH04.TabAndFocus\obj\x86\Debug\CH04.TabAndFocus.csproj.GenerateResource.Cache
+C:\Users\Pavel\Documents\WPFBook\Chapter04\CH04\CH04.TabAndFocus\obj\x86\Debug\CH04.TabAndFocus.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter04\CH04\CH04.TabAndFocus\obj\x86\Debug\CH04.TabAndFocus.pdb

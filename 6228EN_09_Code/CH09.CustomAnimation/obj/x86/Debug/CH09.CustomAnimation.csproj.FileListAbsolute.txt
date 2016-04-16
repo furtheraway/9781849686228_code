@@ -1,0 +1,11 @@
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.CustomAnimation\bin\Debug\CH09.CustomAnimation.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.CustomAnimation\bin\Debug\CH09.CustomAnimation.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.CustomAnimation\obj\x86\Debug\MainWindow.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.CustomAnimation\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.CustomAnimation\obj\x86\Debug\App.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.CustomAnimation\obj\x86\Debug\CH09.CustomAnimation_MarkupCompile.cache
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.CustomAnimation\obj\x86\Debug\CH09.CustomAnimation.g.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.CustomAnimation\obj\x86\Debug\CH09.CustomAnimation.Properties.Resources.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.CustomAnimation\obj\x86\Debug\CH09.CustomAnimation.csproj.GenerateResource.Cache
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.CustomAnimation\obj\x86\Debug\CH09.CustomAnimation.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.CustomAnimation\obj\x86\Debug\CH09.CustomAnimation.pdb

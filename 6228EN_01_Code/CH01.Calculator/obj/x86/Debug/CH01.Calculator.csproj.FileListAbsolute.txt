@@ -1,0 +1,11 @@
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01.Calculator\bin\Debug\CH01.Calculator.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01.Calculator\bin\Debug\CH01.Calculator.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01.Calculator\obj\x86\Debug\MainWindow.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01.Calculator\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01.Calculator\obj\x86\Debug\App.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01.Calculator\obj\x86\Debug\CH01.Calculator_MarkupCompile.cache
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01.Calculator\obj\x86\Debug\CH01.Calculator.g.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01.Calculator\obj\x86\Debug\CH01.Calculator.Properties.Resources.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01.Calculator\obj\x86\Debug\CH01.Calculator.csproj.GenerateResource.Cache
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01.Calculator\obj\x86\Debug\CH01.Calculator.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01.Calculator\obj\x86\Debug\CH01.Calculator.pdb

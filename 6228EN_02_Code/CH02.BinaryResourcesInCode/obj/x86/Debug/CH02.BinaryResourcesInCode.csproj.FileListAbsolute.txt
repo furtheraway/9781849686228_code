@@ -1,0 +1,11 @@
+C:\Users\Pavel\Documents\WPFBook\Chapter02\CH02\CH02.BinaryResourcesInCode\obj\x86\Debug\MainWindow.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter02\CH02\CH02.BinaryResourcesInCode\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter02\CH02\CH02.BinaryResourcesInCode\obj\x86\Debug\App.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter02\CH02\CH02.BinaryResourcesInCode\obj\x86\Debug\CH02.BinaryResourcesInCode_MarkupCompile.cache
+C:\Users\Pavel\Documents\WPFBook\Chapter02\CH02\CH02.BinaryResourcesInCode\obj\x86\Debug\CH02.BinaryResourcesInCode.g.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter02\CH02\CH02.BinaryResourcesInCode\obj\x86\Debug\CH02.BinaryResourcesInCode.Properties.Resources.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter02\CH02\CH02.BinaryResourcesInCode\bin\Debug\CH02.BinaryResourcesInCode.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter02\CH02\CH02.BinaryResourcesInCode\bin\Debug\CH02.BinaryResourcesInCode.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter02\CH02\CH02.BinaryResourcesInCode\obj\x86\Debug\CH02.BinaryResourcesInCode.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter02\CH02\CH02.BinaryResourcesInCode\obj\x86\Debug\CH02.BinaryResourcesInCode.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter02\CH02\CH02.BinaryResourcesInCode\obj\x86\Debug\CH02.BinaryResourcesInCode.csproj.GenerateResource.Cache

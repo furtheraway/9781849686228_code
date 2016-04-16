@@ -1,0 +1,13 @@
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.DataTypedDataTemplates\bin\Debug\CH06.DataTypedDataTemplates.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.DataTypedDataTemplates\bin\Debug\CH06.DataTypedDataTemplates.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.DataTypedDataTemplates\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.DataTypedDataTemplates\obj\x86\Debug\App.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.DataTypedDataTemplates\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.DataTypedDataTemplates\obj\x86\Debug\CH06.DataTypedDataTemplates_MarkupCompile.cache
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.DataTypedDataTemplates\obj\x86\Debug\CH06.DataTypedDataTemplates_MarkupCompile.lref
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.DataTypedDataTemplates\obj\x86\Debug\MainWindow.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.DataTypedDataTemplates\obj\x86\Debug\CH06.DataTypedDataTemplates.g.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.DataTypedDataTemplates\obj\x86\Debug\CH06.DataTypedDataTemplates.Properties.Resources.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.DataTypedDataTemplates\obj\x86\Debug\CH06.DataTypedDataTemplates.csproj.GenerateResource.Cache
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.DataTypedDataTemplates\obj\x86\Debug\CH06.DataTypedDataTemplates.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.DataTypedDataTemplates\obj\x86\Debug\CH06.DataTypedDataTemplates.pdb

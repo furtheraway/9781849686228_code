@@ -1,0 +1,11 @@
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08.CustomItemsPanel\bin\Debug\CH08.CustomItemsPanel.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08.CustomItemsPanel\bin\Debug\CH08.CustomItemsPanel.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08.CustomItemsPanel\obj\x86\Debug\MainWindow.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08.CustomItemsPanel\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08.CustomItemsPanel\obj\x86\Debug\App.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08.CustomItemsPanel\obj\x86\Debug\CH08.CustomItemsPanel_MarkupCompile.cache
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08.CustomItemsPanel\obj\x86\Debug\CH08.CustomItemsPanel.g.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08.CustomItemsPanel\obj\x86\Debug\CH08.CustomItemsPanel.Properties.Resources.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08.CustomItemsPanel\obj\x86\Debug\CH08.CustomItemsPanel.csproj.GenerateResource.Cache
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08.CustomItemsPanel\obj\x86\Debug\CH08.CustomItemsPanel.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08.CustomItemsPanel\obj\x86\Debug\CH08.CustomItemsPanel.pdb

@@ -1,0 +1,11 @@
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01.InheritDemo\bin\Debug\CH01.InheritDemo.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01.InheritDemo\bin\Debug\CH01.InheritDemo.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01.InheritDemo\obj\x86\Debug\MainWindow.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01.InheritDemo\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01.InheritDemo\obj\x86\Debug\App.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01.InheritDemo\obj\x86\Debug\CH01.InheritDemo_MarkupCompile.cache
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01.InheritDemo\obj\x86\Debug\CH01.InheritDemo.g.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01.InheritDemo\obj\x86\Debug\CH01.InheritDemo.Properties.Resources.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01.InheritDemo\obj\x86\Debug\CH01.InheritDemo.csproj.GenerateResource.Cache
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01.InheritDemo\obj\x86\Debug\CH01.InheritDemo.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01.InheritDemo\obj\x86\Debug\CH01.InheritDemo.pdb

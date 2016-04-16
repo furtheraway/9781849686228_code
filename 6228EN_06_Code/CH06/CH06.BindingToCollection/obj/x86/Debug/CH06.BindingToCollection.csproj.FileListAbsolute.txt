@@ -1,0 +1,11 @@
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.BindingToCollection\bin\Debug\CH06.BindingToCollection.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.BindingToCollection\bin\Debug\CH06.BindingToCollection.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.BindingToCollection\obj\x86\Debug\MainWindow.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.BindingToCollection\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.BindingToCollection\obj\x86\Debug\App.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.BindingToCollection\obj\x86\Debug\CH06.BindingToCollection_MarkupCompile.cache
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.BindingToCollection\obj\x86\Debug\CH06.BindingToCollection.g.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.BindingToCollection\obj\x86\Debug\CH06.BindingToCollection.Properties.Resources.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.BindingToCollection\obj\x86\Debug\CH06.BindingToCollection.csproj.GenerateResource.Cache
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.BindingToCollection\obj\x86\Debug\CH06.BindingToCollection.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.BindingToCollection\obj\x86\Debug\CH06.BindingToCollection.pdb

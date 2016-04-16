@@ -1,0 +1,14 @@
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01.TestRandom\bin\Debug\CH01.TestRandom.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01.TestRandom\bin\Debug\CH01.TestRandom.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01.TestRandom\bin\Debug\CH01.CustomMarkupExtension.dll
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01.TestRandom\bin\Debug\CH01.CustomMarkupExtension.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01.TestRandom\obj\x86\Debug\CH01.TestRandom.csprojResolveAssemblyReference.cache
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01.TestRandom\obj\x86\Debug\MainWindow.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01.TestRandom\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01.TestRandom\obj\x86\Debug\App.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01.TestRandom\obj\x86\Debug\CH01.TestRandom_MarkupCompile.cache
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01.TestRandom\obj\x86\Debug\CH01.TestRandom.g.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01.TestRandom\obj\x86\Debug\CH01.TestRandom.Properties.Resources.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01.TestRandom\obj\x86\Debug\CH01.TestRandom.csproj.GenerateResource.Cache
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01.TestRandom\obj\x86\Debug\CH01.TestRandom.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01.TestRandom\obj\x86\Debug\CH01.TestRandom.pdb

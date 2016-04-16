@@ -1,0 +1,13 @@
+C:\Users\Pavel\Documents\WPFBook\Chapter10\CH10\CH10.CustomRendering\obj\x86\Debug\MainWindow.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter10\CH10\CH10.CustomRendering\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter10\CH10\CH10.CustomRendering\obj\x86\Debug\App.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter10\CH10\CH10.CustomRendering\obj\x86\Debug\CH10.CustomRendering_MarkupCompile.cache
+C:\Users\Pavel\Documents\WPFBook\Chapter10\CH10\CH10.CustomRendering\obj\x86\Debug\CH10.CustomRendering.g.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter10\CH10\CH10.CustomRendering\obj\x86\Debug\CH10.CustomRendering.Properties.Resources.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter10\CH10\CH10.CustomRendering\obj\x86\Debug\CH10.CustomRendering.csproj.GenerateResource.Cache
+C:\Users\Pavel\Documents\WPFBook\Chapter10\CH10\CH10.CustomRendering\bin\Debug\CH10.CustomRendering.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter10\CH10\CH10.CustomRendering\bin\Debug\CH10.CustomRendering.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter10\CH10\CH10.CustomRendering\obj\x86\Debug\CH10.CustomRendering.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter10\CH10\CH10.CustomRendering\obj\x86\Debug\CH10.CustomRendering.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter10\CH10\CH10.CustomRendering\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter10\CH10\CH10.CustomRendering\obj\x86\Debug\CH10.CustomRendering_MarkupCompile.lref

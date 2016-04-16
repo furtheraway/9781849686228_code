@@ -1,0 +1,13 @@
+C:\Users\Pavel\Documents\WPFBook\Chapter04\CH04\CH04.ContentControls\bin\Debug\CH04.ContentControls.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter04\CH04\CH04.ContentControls\bin\Debug\CH04.ContentControls.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter04\CH04\CH04.ContentControls\obj\x86\Debug\MainWindow.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter04\CH04\CH04.ContentControls\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter04\CH04\CH04.ContentControls\obj\x86\Debug\App.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter04\CH04\CH04.ContentControls\obj\x86\Debug\CH04.ContentControls_MarkupCompile.cache
+C:\Users\Pavel\Documents\WPFBook\Chapter04\CH04\CH04.ContentControls\obj\x86\Debug\CH04.ContentControls.g.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter04\CH04\CH04.ContentControls\obj\x86\Debug\CH04.ContentControls.Properties.Resources.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter04\CH04\CH04.ContentControls\obj\x86\Debug\CH04.ContentControls.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter04\CH04\CH04.ContentControls\obj\x86\Debug\CH04.ContentControls.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter04\CH04\CH04.ContentControls\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter04\CH04\CH04.ContentControls\obj\x86\Debug\CH04.ContentControls_MarkupCompile.lref
+C:\Users\Pavel\Documents\WPFBook\Chapter04\CH04\CH04.ContentControls\obj\x86\Debug\CH04.ContentControls.csproj.GenerateResource.Cache

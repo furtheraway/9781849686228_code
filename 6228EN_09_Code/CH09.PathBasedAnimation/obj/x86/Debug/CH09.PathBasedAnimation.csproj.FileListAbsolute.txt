@@ -1,0 +1,11 @@
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.PathBasedAnimation\bin\Debug\CH09.PathBasedAnimation.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.PathBasedAnimation\bin\Debug\CH09.PathBasedAnimation.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.PathBasedAnimation\obj\x86\Debug\MainWindow.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.PathBasedAnimation\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.PathBasedAnimation\obj\x86\Debug\App.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.PathBasedAnimation\obj\x86\Debug\CH09.PathBasedAnimation_MarkupCompile.cache
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.PathBasedAnimation\obj\x86\Debug\CH09.PathBasedAnimation.g.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.PathBasedAnimation\obj\x86\Debug\CH09.PathBasedAnimation.Properties.Resources.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.PathBasedAnimation\obj\x86\Debug\CH09.PathBasedAnimation.csproj.GenerateResource.Cache
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.PathBasedAnimation\obj\x86\Debug\CH09.PathBasedAnimation.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.PathBasedAnimation\obj\x86\Debug\CH09.PathBasedAnimation.pdb

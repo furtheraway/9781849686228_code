@@ -1,0 +1,11 @@
+C:\Users\Pavel\Documents\WPFBook\Chapter11\CH11\CH11.AsyncCalc\bin\Debug\CH11.AsyncCalc.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter11\CH11\CH11.AsyncCalc\bin\Debug\CH11.AsyncCalc.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter11\CH11\CH11.AsyncCalc\obj\x86\Debug\MainWindow.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter11\CH11\CH11.AsyncCalc\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter11\CH11\CH11.AsyncCalc\obj\x86\Debug\App.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter11\CH11\CH11.AsyncCalc\obj\x86\Debug\CH11.AsyncCalc_MarkupCompile.cache
+C:\Users\Pavel\Documents\WPFBook\Chapter11\CH11\CH11.AsyncCalc\obj\x86\Debug\CH11.AsyncCalc.g.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter11\CH11\CH11.AsyncCalc\obj\x86\Debug\CH11.AsyncCalc.Properties.Resources.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter11\CH11\CH11.AsyncCalc\obj\x86\Debug\CH11.AsyncCalc.csproj.GenerateResource.Cache
+C:\Users\Pavel\Documents\WPFBook\Chapter11\CH11\CH11.AsyncCalc\obj\x86\Debug\CH11.AsyncCalc.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter11\CH11\CH11.AsyncCalc\obj\x86\Debug\CH11.AsyncCalc.pdb

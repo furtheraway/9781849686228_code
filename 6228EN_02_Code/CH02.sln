@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH02.SimpleResources", "CH02.SimpleResources\CH02.SimpleResources.csproj", "{2CF1830D-B6E8-4BD2-8DDD-9B29B2FA0AFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH02.DynamicVsStatic", "CH02.DynamicVsStatic\CH02.DynamicVsStatic.csproj", "{5F5952E6-95A7-405F-9DDC-71C22E6F6BFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH02.UserSelectedColorsFonts", "CH02.UserSelectedColorsFonts\CH02.UserSelectedColorsFonts.csproj", "{4A3309D6-A3B0-4BB3-A5C9-E277BF1D28FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH02.BinaryResources", "CH02.BinaryResources\CH02.BinaryResources.csproj", "{E415C602-693A-4066-A8AB-7656445A9F60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH02.BinaryResourcesInCode", "CH02.BinaryResourcesInCode\CH02.BinaryResourcesInCode.csproj", "{27459E29-F1E5-48C9-B753-A9BC6E38439A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH02.ManagingResources", "CH02.ManagingResources\CH02.ManagingResources.csproj", "{EBCA5CAA-EF9B-4761-9B8D-07F643760A46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CF1830D-B6E8-4BD2-8DDD-9B29B2FA0AFF}.Debug|x86.ActiveCfg = Debug|x86
+		{2CF1830D-B6E8-4BD2-8DDD-9B29B2FA0AFF}.Debug|x86.Build.0 = Debug|x86
+		{2CF1830D-B6E8-4BD2-8DDD-9B29B2FA0AFF}.Release|x86.ActiveCfg = Release|x86
+		{2CF1830D-B6E8-4BD2-8DDD-9B29B2FA0AFF}.Release|x86.Build.0 = Release|x86
+		{5F5952E6-95A7-405F-9DDC-71C22E6F6BFD}.Debug|x86.ActiveCfg = Debug|x86
+		{5F5952E6-95A7-405F-9DDC-71C22E6F6BFD}.Debug|x86.Build.0 = Debug|x86
+		{5F5952E6-95A7-405F-9DDC-71C22E6F6BFD}.Release|x86.ActiveCfg = Release|x86
+		{5F5952E6-95A7-405F-9DDC-71C22E6F6BFD}.Release|x86.Build.0 = Release|x86
+		{4A3309D6-A3B0-4BB3-A5C9-E277BF1D28FF}.Debug|x86.ActiveCfg = Debug|x86
+		{4A3309D6-A3B0-4BB3-A5C9-E277BF1D28FF}.Debug|x86.Build.0 = Debug|x86
+		{4A3309D6-A3B0-4BB3-A5C9-E277BF1D28FF}.Release|x86.ActiveCfg = Release|x86
+		{4A3309D6-A3B0-4BB3-A5C9-E277BF1D28FF}.Release|x86.Build.0 = Release|x86
+		{E415C602-693A-4066-A8AB-7656445A9F60}.Debug|x86.ActiveCfg = Debug|x86
+		{E415C602-693A-4066-A8AB-7656445A9F60}.Debug|x86.Build.0 = Debug|x86
+		{E415C602-693A-4066-A8AB-7656445A9F60}.Release|x86.ActiveCfg = Release|x86
+		{E415C602-693A-4066-A8AB-7656445A9F60}.Release|x86.Build.0 = Release|x86
+		{27459E29-F1E5-48C9-B753-A9BC6E38439A}.Debug|x86.ActiveCfg = Debug|x86
+		{27459E29-F1E5-48C9-B753-A9BC6E38439A}.Debug|x86.Build.0 = Debug|x86
+		{27459E29-F1E5-48C9-B753-A9BC6E38439A}.Release|x86.ActiveCfg = Release|x86
+		{27459E29-F1E5-48C9-B753-A9BC6E38439A}.Release|x86.Build.0 = Release|x86
+		{EBCA5CAA-EF9B-4761-9B8D-07F643760A46}.Debug|x86.ActiveCfg = Debug|x86
+		{EBCA5CAA-EF9B-4761-9B8D-07F643760A46}.Debug|x86.Build.0 = Debug|x86
+		{EBCA5CAA-EF9B-4761-9B8D-07F643760A46}.Release|x86.ActiveCfg = Release|x86
+		{EBCA5CAA-EF9B-4761-9B8D-07F643760A46}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

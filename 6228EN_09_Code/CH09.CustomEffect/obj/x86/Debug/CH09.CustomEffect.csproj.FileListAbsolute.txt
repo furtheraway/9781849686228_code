@@ -1,0 +1,14 @@
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.CustomEffect\bin\Debug\CH09.CustomEffect.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.CustomEffect\bin\Debug\CH09.CustomEffect.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.CustomEffect\obj\x86\Debug\MainWindow.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.CustomEffect\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.CustomEffect\obj\x86\Debug\App.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.CustomEffect\obj\x86\Debug\CH09.CustomEffect_Content.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.CustomEffect\obj\x86\Debug\CH09.CustomEffect_MarkupCompile.cache
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.CustomEffect\obj\x86\Debug\CH09.CustomEffect.g.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.CustomEffect\obj\x86\Debug\CH09.CustomEffect.Properties.Resources.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.CustomEffect\obj\x86\Debug\CH09.CustomEffect.csproj.GenerateResource.Cache
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.CustomEffect\obj\x86\Debug\CH09.CustomEffect.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.CustomEffect\obj\x86\Debug\CH09.CustomEffect.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.CustomEffect\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.CustomEffect\obj\x86\Debug\CH09.CustomEffect_MarkupCompile.lref

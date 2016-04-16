@@ -1,0 +1,12 @@
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08.CustomScrollBars\bin\Debug\CH08.CustomScrollBars.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08.CustomScrollBars\bin\Debug\CH08.CustomScrollBars.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08.CustomScrollBars\obj\x86\Debug\MainWindow.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08.CustomScrollBars\obj\x86\Debug\App.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08.CustomScrollBars\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08.CustomScrollBars\obj\x86\Debug\App.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08.CustomScrollBars\obj\x86\Debug\CH08.CustomScrollBars_MarkupCompile.cache
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08.CustomScrollBars\obj\x86\Debug\CH08.CustomScrollBars.g.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08.CustomScrollBars\obj\x86\Debug\CH08.CustomScrollBars.Properties.Resources.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08.CustomScrollBars\obj\x86\Debug\CH08.CustomScrollBars.csproj.GenerateResource.Cache
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08.CustomScrollBars\obj\x86\Debug\CH08.CustomScrollBars.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08.CustomScrollBars\obj\x86\Debug\CH08.CustomScrollBars.pdb

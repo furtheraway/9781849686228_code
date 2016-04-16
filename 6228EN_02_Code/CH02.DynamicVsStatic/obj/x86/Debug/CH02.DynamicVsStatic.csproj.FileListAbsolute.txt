@@ -1,0 +1,11 @@
+C:\Users\Pavel\Documents\WPFBook\Chapter02\CH02\CH02.DynamicVsStatic\obj\x86\Debug\MainWindow.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter02\CH02\CH02.DynamicVsStatic\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter02\CH02\CH02.DynamicVsStatic\obj\x86\Debug\App.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter02\CH02\CH02.DynamicVsStatic\obj\x86\Debug\CH02.DynamicVsStatic_MarkupCompile.cache
+C:\Users\Pavel\Documents\WPFBook\Chapter02\CH02\CH02.DynamicVsStatic\obj\x86\Debug\CH02.DynamicVsStatic.g.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter02\CH02\CH02.DynamicVsStatic\obj\x86\Debug\CH02.DynamicVsStatic.Properties.Resources.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter02\CH02\CH02.DynamicVsStatic\bin\Debug\CH02.DynamicVsStatic.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter02\CH02\CH02.DynamicVsStatic\bin\Debug\CH02.DynamicVsStatic.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter02\CH02\CH02.DynamicVsStatic\obj\x86\Debug\CH02.DynamicVsStatic.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter02\CH02\CH02.DynamicVsStatic\obj\x86\Debug\CH02.DynamicVsStatic.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter02\CH02\CH02.DynamicVsStatic\obj\x86\Debug\CH02.DynamicVsStatic.csproj.GenerateResource.Cache

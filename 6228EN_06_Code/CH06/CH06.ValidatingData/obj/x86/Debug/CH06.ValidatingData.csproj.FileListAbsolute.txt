@@ -1,0 +1,14 @@
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.ValidatingData\bin\Debug\CH06.ValidatingData.exe.config
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.ValidatingData\bin\Debug\CH06.ValidatingData.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.ValidatingData\bin\Debug\CH06.ValidatingData.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.ValidatingData\obj\x86\Debug\MainWindow.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.ValidatingData\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.ValidatingData\obj\x86\Debug\App.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.ValidatingData\obj\x86\Debug\CH06.ValidatingData_MarkupCompile.cache
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.ValidatingData\obj\x86\Debug\CH06.ValidatingData.g.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.ValidatingData\obj\x86\Debug\CH06.ValidatingData.Properties.Resources.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.ValidatingData\obj\x86\Debug\CH06.ValidatingData.csproj.GenerateResource.Cache
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.ValidatingData\obj\x86\Debug\CH06.ValidatingData.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.ValidatingData\obj\x86\Debug\CH06.ValidatingData.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.ValidatingData\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.ValidatingData\obj\x86\Debug\CH06.ValidatingData_MarkupCompile.lref

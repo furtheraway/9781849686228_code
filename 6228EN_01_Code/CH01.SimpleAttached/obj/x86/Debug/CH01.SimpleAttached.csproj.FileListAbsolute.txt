@@ -1,0 +1,11 @@
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01.SimpleAttached\bin\Debug\CH01.SimpleAttached.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01.SimpleAttached\bin\Debug\CH01.SimpleAttached.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01.SimpleAttached\obj\x86\Debug\MainWindow.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01.SimpleAttached\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01.SimpleAttached\obj\x86\Debug\App.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01.SimpleAttached\obj\x86\Debug\CH01.SimpleAttached_MarkupCompile.cache
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01.SimpleAttached\obj\x86\Debug\CH01.SimpleAttached.g.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01.SimpleAttached\obj\x86\Debug\CH01.SimpleAttached.Properties.Resources.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01.SimpleAttached\obj\x86\Debug\CH01.SimpleAttached.csproj.GenerateResource.Cache
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01.SimpleAttached\obj\x86\Debug\CH01.SimpleAttached.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01.SimpleAttached\obj\x86\Debug\CH01.SimpleAttached.pdb

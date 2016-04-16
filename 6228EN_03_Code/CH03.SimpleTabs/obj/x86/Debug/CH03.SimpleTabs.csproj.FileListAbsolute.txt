@@ -1,0 +1,11 @@
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.SimpleTabs\bin\Debug\CH03.SimpleTabs.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.SimpleTabs\bin\Debug\CH03.SimpleTabs.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.SimpleTabs\obj\x86\Debug\MainWindow.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.SimpleTabs\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.SimpleTabs\obj\x86\Debug\App.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.SimpleTabs\obj\x86\Debug\CH03.SimpleTabs_MarkupCompile.cache
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.SimpleTabs\obj\x86\Debug\CH03.SimpleTabs.g.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.SimpleTabs\obj\x86\Debug\CH03.SimpleTabs.Properties.Resources.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.SimpleTabs\obj\x86\Debug\CH03.SimpleTabs.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.SimpleTabs\obj\x86\Debug\CH03.SimpleTabs.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.SimpleTabs\obj\x86\Debug\CH03.SimpleTabs.csproj.GenerateResource.Cache

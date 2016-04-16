@@ -1,0 +1,31 @@
+﻿<Window x:Class="CH07.RoutedCommands.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:CH07.RoutedCommands"
+        Title="Image Viewer" Height="350" Width="525">
+    <Window.CommandBindings>
+        <CommandBinding Command="Open" Executed="OnOpen" />
+        <CommandBinding Command="IncreaseZoom" Executed="OnZoomIn" CanExecute="OnIsImageExist" />
+        <CommandBinding Command="DecreaseZoom" Executed="OnZoomOut" CanExecute="OnIsImageExist" />
+        <CommandBinding Command="local:Commands.ZoomNormalCommand" Executed="OnZoomNormal" CanExecute="OnIsImageExist" />
+    </Window.CommandBindings>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <ToolBar FontSize="14">
+            <Button Content="Open..." Command="Open" Margin="6"/>
+            <Button Content="Zoom In" Command="IncreaseZoom" Margin="6"/>
+            <Button Content="Zoom Out" Command="DecreaseZoom" Margin="6"/>
+            <Button Content="Normal" Command="local:Commands.ZoomNormalCommand" Margin="6"/>
+        </ToolBar>
+        <ScrollViewer Grid.Row="1" HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto">
+            <Image Source="{Binding ImagePath}" Stretch="None">
+                <Image.LayoutTransform>
+                    <ScaleTransform ScaleX="{Binding Zoom}" ScaleY="{Binding Zoom}" />
+                </Image.LayoutTransform>
+            </Image>
+        </ScrollViewer>
+    </Grid>
+</Window>

@@ -1,0 +1,11 @@
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.ValidatingDataWithAnnotations\bin\Debug\CH06.ValidatingDataWithAnnotations.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.ValidatingDataWithAnnotations\bin\Debug\CH06.ValidatingDataWithAnnotations.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.ValidatingDataWithAnnotations\obj\x86\Debug\MainWindow.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.ValidatingDataWithAnnotations\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.ValidatingDataWithAnnotations\obj\x86\Debug\App.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.ValidatingDataWithAnnotations\obj\x86\Debug\CH06.ValidatingDataWithAnnotations_MarkupCompile.cache
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.ValidatingDataWithAnnotations\obj\x86\Debug\CH06.ValidatingDataWithAnnotations.g.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.ValidatingDataWithAnnotations\obj\x86\Debug\CH06.ValidatingDataWithAnnotations.Properties.Resources.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.ValidatingDataWithAnnotations\obj\x86\Debug\CH06.ValidatingDataWithAnnotations.csproj.GenerateResource.Cache
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.ValidatingDataWithAnnotations\obj\x86\Debug\CH06.ValidatingDataWithAnnotations.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.ValidatingDataWithAnnotations\obj\x86\Debug\CH06.ValidatingDataWithAnnotations.pdb

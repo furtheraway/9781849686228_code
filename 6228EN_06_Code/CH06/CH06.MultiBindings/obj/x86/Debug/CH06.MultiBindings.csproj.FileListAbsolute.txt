@@ -1,0 +1,13 @@
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.MultiBindings\bin\Debug\CH06.MultiBindings.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.MultiBindings\bin\Debug\CH06.MultiBindings.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.MultiBindings\obj\x86\Debug\MainWindow.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.MultiBindings\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.MultiBindings\obj\x86\Debug\App.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.MultiBindings\obj\x86\Debug\CH06.MultiBindings_MarkupCompile.cache
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.MultiBindings\obj\x86\Debug\CH06.MultiBindings.g.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.MultiBindings\obj\x86\Debug\CH06.MultiBindings.Properties.Resources.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.MultiBindings\obj\x86\Debug\CH06.MultiBindings.csproj.GenerateResource.Cache
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.MultiBindings\obj\x86\Debug\CH06.MultiBindings.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.MultiBindings\obj\x86\Debug\CH06.MultiBindings.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.MultiBindings\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.MultiBindings\obj\x86\Debug\CH06.MultiBindings_MarkupCompile.lref

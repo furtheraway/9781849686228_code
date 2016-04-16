@@ -1,0 +1,11 @@
+C:\Users\Pavel\Documents\WPFBook\Chapter11\CH11\CH11.AsyncCalcWithBinding\obj\x86\Debug\MainWindow.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter11\CH11\CH11.AsyncCalcWithBinding\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter11\CH11\CH11.AsyncCalcWithBinding\obj\x86\Debug\App.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter11\CH11\CH11.AsyncCalcWithBinding\obj\x86\Debug\CH11.AsyncCalcWithBinding_MarkupCompile.cache
+C:\Users\Pavel\Documents\WPFBook\Chapter11\CH11\CH11.AsyncCalcWithBinding\obj\x86\Debug\CH11.AsyncCalcWithBinding.g.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter11\CH11\CH11.AsyncCalcWithBinding\obj\x86\Debug\CH11.AsyncCalcWithBinding.Properties.Resources.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter11\CH11\CH11.AsyncCalcWithBinding\obj\x86\Debug\CH11.AsyncCalcWithBinding.csproj.GenerateResource.Cache
+C:\Users\Pavel\Documents\WPFBook\Chapter11\CH11\CH11.AsyncCalcWithBinding\bin\Debug\CH11.AsyncCalcWithBinding.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter11\CH11\CH11.AsyncCalcWithBinding\bin\Debug\CH11.AsyncCalcWithBinding.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter11\CH11\CH11.AsyncCalcWithBinding\obj\x86\Debug\CH11.AsyncCalcWithBinding.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter11\CH11\CH11.AsyncCalcWithBinding\obj\x86\Debug\CH11.AsyncCalcWithBinding.pdb

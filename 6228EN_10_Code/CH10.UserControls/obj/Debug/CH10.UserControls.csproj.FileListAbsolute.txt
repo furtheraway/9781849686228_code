@@ -1,0 +1,12 @@
+C:\Users\Pavel\Documents\WPFBook\Chapter10\CH10\CH10.UserControls\bin\Debug\CH10.UserControls.dll
+C:\Users\Pavel\Documents\WPFBook\Chapter10\CH10\CH10.UserControls\bin\Debug\CH10.UserControls.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter10\CH10\CH10.UserControls\obj\Debug\CH10.UserControls.Properties.Resources.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter10\CH10\CH10.UserControls\obj\Debug\CH10.UserControls.csproj.GenerateResource.Cache
+C:\Users\Pavel\Documents\WPFBook\Chapter10\CH10\CH10.UserControls\obj\Debug\CH10.UserControls.dll
+C:\Users\Pavel\Documents\WPFBook\Chapter10\CH10\CH10.UserControls\obj\Debug\CH10.UserControls.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter10\CH10\CH10.UserControls\obj\Debug\ColorPicker.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter10\CH10\CH10.UserControls\obj\Debug\ColorPicker.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter10\CH10\CH10.UserControls\obj\Debug\CH10.UserControls_MarkupCompile.cache
+C:\Users\Pavel\Documents\WPFBook\Chapter10\CH10\CH10.UserControls\obj\Debug\CH10.UserControls.g.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter10\CH10\CH10.UserControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter10\CH10\CH10.UserControls\obj\Debug\CH10.UserControls_MarkupCompile.lref

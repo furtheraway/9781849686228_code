@@ -1,0 +1,11 @@
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01.SimpleDraw\bin\Debug\CH01.SimpleDraw.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01.SimpleDraw\bin\Debug\CH01.SimpleDraw.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01.SimpleDraw\obj\x86\Debug\MainWindow.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01.SimpleDraw\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01.SimpleDraw\obj\x86\Debug\App.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01.SimpleDraw\obj\x86\Debug\CH01.SimpleDraw_MarkupCompile.cache
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01.SimpleDraw\obj\x86\Debug\CH01.SimpleDraw.g.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01.SimpleDraw\obj\x86\Debug\CH01.SimpleDraw.Properties.Resources.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01.SimpleDraw\obj\x86\Debug\CH01.SimpleDraw.csproj.GenerateResource.Cache
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01.SimpleDraw\obj\x86\Debug\CH01.SimpleDraw.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01.SimpleDraw\obj\x86\Debug\CH01.SimpleDraw.pdb

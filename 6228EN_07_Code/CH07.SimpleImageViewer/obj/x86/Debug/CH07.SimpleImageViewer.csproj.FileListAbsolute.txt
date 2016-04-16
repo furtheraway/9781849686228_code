@@ -1,0 +1,13 @@
+C:\Users\Pavel\Documents\WPFBook\Chapter07\CH07\CH07.SimpleImageViewer\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter07\CH07\CH07.SimpleImageViewer\obj\x86\Debug\App.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter07\CH07\CH07.SimpleImageViewer\obj\x86\Debug\CH07.RoutedCommands_MarkupCompile.cache
+C:\Users\Pavel\Documents\WPFBook\Chapter07\CH07\CH07.SimpleImageViewer\obj\x86\Debug\CH07.RoutedCommands_MarkupCompile.lref
+C:\Users\Pavel\Documents\WPFBook\Chapter07\CH07\CH07.SimpleImageViewer\obj\x86\Debug\CH07.RoutedCommands.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter07\CH07\CH07.SimpleImageViewer\bin\Debug\CH07.RoutedCommands.exe.config
+C:\Users\Pavel\Documents\WPFBook\Chapter07\CH07\CH07.SimpleImageViewer\bin\Debug\CH07.RoutedCommands.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter07\CH07\CH07.SimpleImageViewer\bin\Debug\CH07.RoutedCommands.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter07\CH07\CH07.SimpleImageViewer\obj\x86\Debug\MainWindow.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter07\CH07\CH07.SimpleImageViewer\obj\x86\Debug\CH07.RoutedCommands.g.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter07\CH07\CH07.SimpleImageViewer\obj\x86\Debug\CH07.RoutedCommands.Properties.Resources.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter07\CH07\CH07.SimpleImageViewer\obj\x86\Debug\CH07.SimpleImageViewer.csproj.GenerateResource.Cache
+C:\Users\Pavel\Documents\WPFBook\Chapter07\CH07\CH07.SimpleImageViewer\obj\x86\Debug\CH07.RoutedCommands.pdb

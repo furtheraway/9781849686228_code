@@ -1,0 +1,11 @@
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.WeatherForecastWithTriggers\bin\Debug\CH06.WeatherForecastWithTriggers.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.WeatherForecastWithTriggers\bin\Debug\CH06.WeatherForecastWithTriggers.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.WeatherForecastWithTriggers\obj\x86\Debug\MainWindow.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.WeatherForecastWithTriggers\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.WeatherForecastWithTriggers\obj\x86\Debug\App.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.WeatherForecastWithTriggers\obj\x86\Debug\CH06.WeatherForecastWithTriggers_MarkupCompile.cache
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.WeatherForecastWithTriggers\obj\x86\Debug\CH06.WeatherForecastWithTriggers.g.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.WeatherForecastWithTriggers\obj\x86\Debug\CH06.WeatherForecastWithTriggers.Properties.Resources.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.WeatherForecastWithTriggers\obj\x86\Debug\CH06.WeatherForecastWithTriggers.csproj.GenerateResource.Cache
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.WeatherForecastWithTriggers\obj\x86\Debug\CH06.WeatherForecastWithTriggers.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.WeatherForecastWithTriggers\obj\x86\Debug\CH06.WeatherForecastWithTriggers.pdb

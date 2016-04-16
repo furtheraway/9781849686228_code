@@ -1,0 +1,11 @@
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.AdornerDemo\obj\x86\Debug\MainWindow.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.AdornerDemo\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.AdornerDemo\obj\x86\Debug\App.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.AdornerDemo\obj\x86\Debug\CH09.AdornerDemo_MarkupCompile.cache
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.AdornerDemo\obj\x86\Debug\CH09.AdornerDemo.g.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.AdornerDemo\obj\x86\Debug\CH09.AdornerDemo.Properties.Resources.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.AdornerDemo\obj\x86\Debug\CH09.AdornerDemo.csproj.GenerateResource.Cache
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.AdornerDemo\bin\Debug\CH09.AdornerDemo.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.AdornerDemo\bin\Debug\CH09.AdornerDemo.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.AdornerDemo\obj\x86\Debug\CH09.AdornerDemo.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.AdornerDemo\obj\x86\Debug\CH09.AdornerDemo.pdb

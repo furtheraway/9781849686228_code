@@ -1,0 +1,14 @@
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08.CustomProgressBar\bin\Debug\CH08.CustomProgressBar.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08.CustomProgressBar\bin\Debug\CH08.CustomProgressBar.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08.CustomProgressBar\obj\x86\Debug\MainWindow.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08.CustomProgressBar\obj\x86\Debug\App.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08.CustomProgressBar\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08.CustomProgressBar\obj\x86\Debug\App.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08.CustomProgressBar\obj\x86\Debug\CH08.CustomProgressBar_MarkupCompile.cache
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08.CustomProgressBar\obj\x86\Debug\CH08.CustomProgressBar.g.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08.CustomProgressBar\obj\x86\Debug\CH08.CustomProgressBar.Properties.Resources.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08.CustomProgressBar\obj\x86\Debug\CH08.CustomProgressBar.csproj.GenerateResource.Cache
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08.CustomProgressBar\obj\x86\Debug\CH08.CustomProgressBar.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08.CustomProgressBar\obj\x86\Debug\CH08.CustomProgressBar.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08.CustomProgressBar\obj\x86\Debug\CH08.CustomProgressBar_MarkupCompile.lref
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08.CustomProgressBar\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs

@@ -1,0 +1,27 @@
+<Modules>
+  <Module PersistentId="605262E5-8AD9-4BA8-9AE7-AC0FED12BC8B" ModuleId="CH06.ElementToElementBindings" />
+  <Module PersistentId="70CC138A-249E-42AF-811C-1433433DB2EC" ModuleId="CH06.ElementToElementCodeBindings" />
+  <Module PersistentId="51624F03-5D4E-48B9-ABEE-48FCBBF17278" ModuleId="CH06.SingleObjectBinding" />
+  <Module PersistentId="System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="System" />
+  <Module PersistentId="AEDD9CC1-1EFF-489F-942D-A9EAC7349CDE" ModuleId="CH06.BindingToCollection" />
+  <Module PersistentId="545D922A-316B-492A-A0B1-9EEA22BD47AE" ModuleId="CH06.RelativeSourceBindings" />
+  <Module PersistentId="64F7F5D5-EDD5-49FD-BE6E-FB476D3846E3" ModuleId="CH06.DataTemplates" />
+  <Module PersistentId="3909EDA6-30F9-4784-B78A-D7C44EEAEE86" ModuleId="CH06.DataTypedDataTemplates" />
+  <Module PersistentId="40BE1CC4-5C1D-4C7A-B2A3-95AC557D66A3" ModuleId="CH06.DataTemplateSelectors" />
+  <Module PersistentId="3F3D25FD-D866-4AF7-B7D3-EB5C28D0EC26" ModuleId="CH06.WeatherForecast" />
+  <Module PersistentId="F3BB6905-B0BE-4BD1-8C34-0CA44EE27CBA" ModuleId="CH06.WeatherForecastWithTriggers" />
+  <Module PersistentId="515732C7-B4DC-4AB7-B75C-32B7818B91FE" ModuleId="CH06.MasterDetail" />
+  <Module PersistentId="87F01EC3-0B82-4914-92AB-21D9D7378A01" ModuleId="CH06.MultiBindings" />
+  <Module PersistentId="BBE369F1-9CD5-4F05-82D4-A835E6941165" ModuleId="CH06.TreeViewBinding" />
+  <Module PersistentId="57DD94E0-A12C-46D2-8004-4B0B52CE5F6D" ModuleId="CH06.MasterDetail2" />
+  <Module PersistentId="E4696B2B-BD52-4DEA-B399-5A1D59583FE3" ModuleId="CH06.SortingData" />
+  <Module PersistentId="CFA67245-5975-4192-9B8B-1876CAAC11E0" ModuleId="CH06.GroupingData" />
+  <Module PersistentId="1550522B-2159-4DDC-BB2C-9301322C5592" ModuleId="CH06.SortingAndFiltering2" />
+  <Module PersistentId="5453795E-9B72-4E8B-9411-E74B0F818C43" ModuleId="CH06.SortingAndFiltering3" />
+  <Module PersistentId="965170DB-C024-4734-AACB-E191B0338BF6" ModuleId="CH06.GroupingData2" />
+  <Module PersistentId="AF75CECB-40DF-4DE1-913D-7288C9EA14D5" ModuleId="CH06.DataGridDemo" />
+  <Module PersistentId="B79FC0B9-B55F-4AAF-AEF7-A0CF90E5C6C6" ModuleId="CH06.DataGridDemo2" />
+  <Module PersistentId="83AE329C-2ED8-4365-8539-A1B9B8EBC4D0" ModuleId="CH06.ValidatingData" />
+  <Module PersistentId="1E67B6DC-6D1D-4974-9E88-774EAA4E7E46" ModuleId="CH06.ValidatingDataWithAnnotations" />
+  <Module PersistentId="System.ComponentModel.DataAnnotations, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" ModuleId="System.ComponentModel.DataAnnotations" />
+</Modules>

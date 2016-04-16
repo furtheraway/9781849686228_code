@@ -1,0 +1,16 @@
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01_DependencyProperties\bin\Debug\CH01_DependencyProperties.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01_DependencyProperties\bin\Debug\CH01_DependencyProperties.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01_DependencyProperties\obj\x86\Debug\CH01_DependencyProperties.csprojResolveAssemblyReference.cache
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01_DependencyProperties\obj\x86\Debug\SimpleControl.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01_DependencyProperties\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01_DependencyProperties\obj\x86\Debug\SimpleControl.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01_DependencyProperties\obj\x86\Debug\App.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01_DependencyProperties\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01_DependencyProperties\obj\x86\Debug\CH01_DependencyProperties_MarkupCompile.cache
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01_DependencyProperties\obj\x86\Debug\CH01_DependencyProperties_MarkupCompile.lref
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01_DependencyProperties\obj\x86\Debug\MainWindow.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01_DependencyProperties\obj\x86\Debug\CH01_DependencyProperties.g.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01_DependencyProperties\obj\x86\Debug\CH01_DependencyProperties.Properties.Resources.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01_DependencyProperties\obj\x86\Debug\CH01_DependencyProperties.csproj.GenerateResource.Cache
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01_DependencyProperties\obj\x86\Debug\CH01_DependencyProperties.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01_DependencyProperties\obj\x86\Debug\CH01_DependencyProperties.pdb

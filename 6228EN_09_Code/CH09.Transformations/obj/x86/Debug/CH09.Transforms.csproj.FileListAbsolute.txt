@@ -1,0 +1,11 @@
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.Transformations\bin\Debug\CH09.Transforms.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.Transformations\bin\Debug\CH09.Transforms.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.Transformations\obj\x86\Debug\MainWindow.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.Transformations\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.Transformations\obj\x86\Debug\App.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.Transformations\obj\x86\Debug\CH09.Transforms_MarkupCompile.cache
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.Transformations\obj\x86\Debug\CH09.Transforms.g.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.Transformations\obj\x86\Debug\CH09.Transforms.Properties.Resources.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.Transformations\obj\x86\Debug\CH09.Transforms.csproj.GenerateResource.Cache
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.Transformations\obj\x86\Debug\CH09.Transforms.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.Transformations\obj\x86\Debug\CH09.Transforms.pdb

@@ -1,0 +1,26 @@
+﻿<Application x:Class="CH08.StyledCalculator.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <!--<Style TargetType="Grid">
+            <Setter Property="RenderTransform">
+                <Setter.Value>
+                    <ScaleTransform ScaleX="0" ScaleY="0" />
+                </Setter.Value>
+            </Setter>
+            <Setter Property="RenderTransformOrigin" Value=".5,.5" />
+            <Style.Triggers>
+                <EventTrigger RoutedEvent="Loaded">
+                    <BeginStoryboard>
+                        <Storyboard>
+                            <DoubleAnimation To="1" Duration="0:0:1" Storyboard.TargetProperty="RenderTransform.ScaleX" />
+                            <DoubleAnimation To="1" Duration="0:0:1" Storyboard.TargetProperty="RenderTransform.ScaleY" />
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+            </Style.Triggers>
+        </Style>-->
+
+    </Application.Resources>
+</Application>

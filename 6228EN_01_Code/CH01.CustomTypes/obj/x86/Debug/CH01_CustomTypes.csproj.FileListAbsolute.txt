@@ -1,0 +1,14 @@
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01_CustomTypes\bin\Debug\CH01_CustomTypes.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01_CustomTypes\bin\Debug\CH01_CustomTypes.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01_CustomTypes\obj\x86\Debug\CH01_CustomTypes.csprojResolveAssemblyReference.cache
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01_CustomTypes\obj\x86\Debug\MainWindow.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01_CustomTypes\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01_CustomTypes\obj\x86\Debug\App.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01_CustomTypes\obj\x86\Debug\CH01_CustomTypes_MarkupCompile.cache
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01_CustomTypes\obj\x86\Debug\CH01_CustomTypes.g.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01_CustomTypes\obj\x86\Debug\CH01_CustomTypes.Properties.Resources.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01_CustomTypes\obj\x86\Debug\CH01_CustomTypes.csproj.GenerateResource.Cache
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01_CustomTypes\obj\x86\Debug\CH01_CustomTypes.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01_CustomTypes\obj\x86\Debug\CH01_CustomTypes.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01_CustomTypes\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter01\CH01\CH01_CustomTypes\obj\x86\Debug\CH01_CustomTypes_MarkupCompile.lref

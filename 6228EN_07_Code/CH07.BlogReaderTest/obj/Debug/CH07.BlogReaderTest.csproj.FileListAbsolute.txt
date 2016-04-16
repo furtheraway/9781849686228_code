@@ -1,0 +1,9 @@
+C:\Users\Pavel\Documents\WPFBook\Chapter07\CH07\CH07.BlogReaderTest\obj\Debug\CH07.BlogReaderTest.csprojResolveAssemblyReference.cache
+C:\Users\Pavel\Documents\WPFBook\Chapter07\CH07\CH07.BlogReaderTest\bin\Debug\CH07.BlogReaderTest.dll
+C:\Users\Pavel\Documents\WPFBook\Chapter07\CH07\CH07.BlogReaderTest\bin\Debug\CH07.BlogReaderTest.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter07\CH07\CH07.BlogReaderTest\bin\Debug\CH07.BlogReader.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter07\CH07\CH07.BlogReaderTest\bin\Debug\CH07.CookbookMVVM.dll
+C:\Users\Pavel\Documents\WPFBook\Chapter07\CH07\CH07.BlogReaderTest\bin\Debug\CH07.BlogReader.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter07\CH07\CH07.BlogReaderTest\bin\Debug\CH07.CookbookMVVM.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter07\CH07\CH07.BlogReaderTest\obj\Debug\CH07.BlogReaderTest.dll
+C:\Users\Pavel\Documents\WPFBook\Chapter07\CH07\CH07.BlogReaderTest\obj\Debug\CH07.BlogReaderTest.pdb

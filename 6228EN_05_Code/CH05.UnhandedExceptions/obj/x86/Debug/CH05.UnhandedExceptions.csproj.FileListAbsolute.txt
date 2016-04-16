@@ -1,0 +1,12 @@
+C:\Users\Pavel\Documents\WPFBook\Chapter05\CH05\CH05.UnhandedExceptions\obj\x86\Debug\MainWindow.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter05\CH05\CH05.UnhandedExceptions\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter05\CH05\CH05.UnhandedExceptions\obj\x86\Debug\App.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter05\CH05\CH05.UnhandedExceptions\obj\x86\Debug\CH05.UnhandedExceptions_MarkupCompile.cache
+C:\Users\Pavel\Documents\WPFBook\Chapter05\CH05\CH05.UnhandedExceptions\obj\x86\Debug\CH05.UnhandedExceptions.g.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter05\CH05\CH05.UnhandedExceptions\obj\x86\Debug\CH05.UnhandedExceptions.Properties.Resources.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter05\CH05\CH05.UnhandedExceptions\obj\x86\Debug\CH05.UnhandedExceptions.csproj.GenerateResource.Cache
+C:\Users\Pavel\Documents\WPFBook\Chapter05\CH05\CH05.UnhandedExceptions\bin\Debug\CH05.UnhandedExceptions.exe.config
+C:\Users\Pavel\Documents\WPFBook\Chapter05\CH05\CH05.UnhandedExceptions\bin\Debug\CH05.UnhandedExceptions.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter05\CH05\CH05.UnhandedExceptions\bin\Debug\CH05.UnhandedExceptions.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter05\CH05\CH05.UnhandedExceptions\obj\x86\Debug\CH05.UnhandedExceptions.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter05\CH05\CH05.UnhandedExceptions\obj\x86\Debug\CH05.UnhandedExceptions.pdb

@@ -1,0 +1,16 @@
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08.SkinningDemo\bin\Debug\CH08.SkinningDemo.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08.SkinningDemo\bin\Debug\CH08.SkinningDemo.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08.SkinningDemo\obj\x86\Debug\MainWindow.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08.SkinningDemo\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08.SkinningDemo\obj\x86\Debug\App.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08.SkinningDemo\obj\x86\Debug\CH08.SkinningDemo_MarkupCompile.cache
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08.SkinningDemo\obj\x86\Debug\CH08.SkinningDemo.g.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08.SkinningDemo\obj\x86\Debug\CH08.SkinningDemo.Properties.Resources.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08.SkinningDemo\obj\x86\Debug\CH08.SkinningDemo.csproj.GenerateResource.Cache
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08.SkinningDemo\obj\x86\Debug\CH08.SkinningDemo.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08.SkinningDemo\obj\x86\Debug\CH08.SkinningDemo.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08.SkinningDemo\bin\Debug\Skins\RedSkin.xaml
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08.SkinningDemo\obj\x86\Debug\CH08.SkinningDemo_Content.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08.SkinningDemo\bin\Debug\Skins\DefaultSkin.xaml
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08.SkinningDemo\bin\Debug\Skins\BlueSkin.xaml
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08.SkinningDemo\obj\x86\Debug\App.baml

@@ -1,0 +1,11 @@
+C:\Users\Pavel\Documents\WPFBook\Chapter04\CH04\CH04.ImageSources\bin\Debug\CH04.ImageSources.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter04\CH04\CH04.ImageSources\bin\Debug\CH04.ImageSources.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter04\CH04\CH04.ImageSources\obj\x86\Debug\MainWindow.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter04\CH04\CH04.ImageSources\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter04\CH04\CH04.ImageSources\obj\x86\Debug\App.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter04\CH04\CH04.ImageSources\obj\x86\Debug\CH04.ImageSources_MarkupCompile.cache
+C:\Users\Pavel\Documents\WPFBook\Chapter04\CH04\CH04.ImageSources\obj\x86\Debug\CH04.ImageSources.g.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter04\CH04\CH04.ImageSources\obj\x86\Debug\CH04.ImageSources.Properties.Resources.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter04\CH04\CH04.ImageSources\obj\x86\Debug\CH04.ImageSources.csproj.GenerateResource.Cache
+C:\Users\Pavel\Documents\WPFBook\Chapter04\CH04\CH04.ImageSources\obj\x86\Debug\CH04.ImageSources.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter04\CH04\CH04.ImageSources\obj\x86\Debug\CH04.ImageSources.pdb

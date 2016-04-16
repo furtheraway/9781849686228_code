@@ -1,0 +1,14 @@
+C:\Users\Pavel\Documents\WPFBook\Chapter05\CH05\CH05.NewWindows\bin\Debug\CH05.NewWindows.exe.config
+C:\Users\Pavel\Documents\WPFBook\Chapter05\CH05\CH05.NewWindows\bin\Debug\CH05.NewWindows.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter05\CH05\CH05.NewWindows\bin\Debug\CH05.NewWindows.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter05\CH05\CH05.NewWindows\obj\x86\Debug\MainWindow.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter05\CH05\CH05.NewWindows\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter05\CH05\CH05.NewWindows\obj\x86\Debug\App.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter05\CH05\CH05.NewWindows\obj\x86\Debug\CH05.NewWindows_MarkupCompile.cache
+C:\Users\Pavel\Documents\WPFBook\Chapter05\CH05\CH05.NewWindows\obj\x86\Debug\CH05.NewWindows.g.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter05\CH05\CH05.NewWindows\obj\x86\Debug\CH05.NewWindows.Properties.Resources.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter05\CH05\CH05.NewWindows\obj\x86\Debug\CH05.NewWindows.csproj.GenerateResource.Cache
+C:\Users\Pavel\Documents\WPFBook\Chapter05\CH05\CH05.NewWindows\obj\x86\Debug\CH05.NewWindows.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter05\CH05\CH05.NewWindows\obj\x86\Debug\CH05.NewWindows.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter05\CH05\CH05.NewWindows\obj\x86\Debug\OtherWindow.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter05\CH05\CH05.NewWindows\obj\x86\Debug\OtherWindow.g.cs

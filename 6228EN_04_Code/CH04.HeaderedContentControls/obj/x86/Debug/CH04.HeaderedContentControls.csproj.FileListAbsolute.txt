@@ -1,0 +1,11 @@
+C:\Users\Pavel\Documents\WPFBook\Chapter04\CH04\CH04.HeaderedContentControls\obj\x86\Debug\App.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter04\CH04\CH04.HeaderedContentControls\obj\x86\Debug\CH04.HeaderedContentControls_MarkupCompile.cache
+C:\Users\Pavel\Documents\WPFBook\Chapter04\CH04\CH04.HeaderedContentControls\bin\Debug\CH04.HeaderedContentControls.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter04\CH04\CH04.HeaderedContentControls\bin\Debug\CH04.HeaderedContentControls.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter04\CH04\CH04.HeaderedContentControls\obj\x86\Debug\MainWindow.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter04\CH04\CH04.HeaderedContentControls\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter04\CH04\CH04.HeaderedContentControls\obj\x86\Debug\CH04.HeaderedContentControls.g.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter04\CH04\CH04.HeaderedContentControls\obj\x86\Debug\CH04.HeaderedContentControls.Properties.Resources.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter04\CH04\CH04.HeaderedContentControls\obj\x86\Debug\CH04.HeaderedContentControls.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter04\CH04\CH04.HeaderedContentControls\obj\x86\Debug\CH04.HeaderedContentControls.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter04\CH04\CH04.HeaderedContentControls\obj\x86\Debug\CH04.HeaderedContentControls.csproj.GenerateResource.Cache

@@ -1,0 +1,13 @@
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.AnimationEasing\bin\Debug\CH09.AnimationEasing.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.AnimationEasing\bin\Debug\CH09.AnimationEasing.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.AnimationEasing\obj\x86\Debug\MainWindow.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.AnimationEasing\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.AnimationEasing\obj\x86\Debug\App.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.AnimationEasing\obj\x86\Debug\CH09.AnimationEasing_MarkupCompile.cache
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.AnimationEasing\obj\x86\Debug\CH09.AnimationEasing.g.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.AnimationEasing\obj\x86\Debug\CH09.AnimationEasing.Properties.Resources.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.AnimationEasing\obj\x86\Debug\CH09.AnimationEasing.csproj.GenerateResource.Cache
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.AnimationEasing\obj\x86\Debug\CH09.AnimationEasing.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.AnimationEasing\obj\x86\Debug\CH09.AnimationEasing.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.AnimationEasing\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter09\CH09\CH09.AnimationEasing\obj\x86\Debug\CH09.AnimationEasing_MarkupCompile.lref

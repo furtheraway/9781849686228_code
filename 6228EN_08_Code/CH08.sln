@@ -1,0 +1,74 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH08.CustomScrollBars", "CH08.CustomScrollBars\CH08.CustomScrollBars.csproj", "{2FDFA8E6-588F-41DA-9210-2DE821A54553}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH08.MultiTriggerDemo", "CH08..MultiTriggerDemo\CH08.MultiTriggerDemo.csproj", "{39DF0A97-AAE5-46A6-A3B0-179C31288524}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH08.CustomProgressBar", "CH08.CustomProgressBar\CH08.CustomProgressBar.csproj", "{0A008EA9-2494-4774-A748-2B41A2E6A262}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH08.DataTriggerDemo", "CH08.DataTriggerDemo\CH08.DataTriggerDemo.csproj", "{FD726BA0-A31D-4980-A0C3-4715AFAF94B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH08.MovingCircle", "CH08.MovingCircle\CH08.MovingCircle.csproj", "{A16DF7B0-59AF-437E-BEE5-C7BCE8189A1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH08.SkinningDemo", "CH08.SkinningDemo\CH08.SkinningDemo.csproj", "{E7FD94AF-DAFA-4EDE-AF78-A01EAB9E9023}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH08.StyledCalculator", "CH08.StyledCalculator\CH08.StyledCalculator.csproj", "{CB05BCD5-1135-4A1C-91FC-609D0013C5C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH08.StyledCalculator2", "CH08.StyledCalculator2\CH08.StyledCalculator2.csproj", "{42261DE7-3803-4F51-8B81-89221C92BCEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH08.StyledCalculatorWithTriggers", "CH08.StyledCalculatorWithTriggers\CH08.StyledCalculatorWithTriggers.csproj", "{699F3FA8-5C5D-42A8-8CAD-91537F3B1575}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH08.CustomItemsPanel", "CH08.CustomItemsPanel\CH08.CustomItemsPanel.csproj", "{8D2DE5A6-AA77-4781-9E7A-8B850E1DD440}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FDFA8E6-588F-41DA-9210-2DE821A54553}.Debug|x86.ActiveCfg = Debug|x86
+		{2FDFA8E6-588F-41DA-9210-2DE821A54553}.Debug|x86.Build.0 = Debug|x86
+		{2FDFA8E6-588F-41DA-9210-2DE821A54553}.Release|x86.ActiveCfg = Release|x86
+		{2FDFA8E6-588F-41DA-9210-2DE821A54553}.Release|x86.Build.0 = Release|x86
+		{39DF0A97-AAE5-46A6-A3B0-179C31288524}.Debug|x86.ActiveCfg = Debug|x86
+		{39DF0A97-AAE5-46A6-A3B0-179C31288524}.Debug|x86.Build.0 = Debug|x86
+		{39DF0A97-AAE5-46A6-A3B0-179C31288524}.Release|x86.ActiveCfg = Release|x86
+		{39DF0A97-AAE5-46A6-A3B0-179C31288524}.Release|x86.Build.0 = Release|x86
+		{0A008EA9-2494-4774-A748-2B41A2E6A262}.Debug|x86.ActiveCfg = Debug|x86
+		{0A008EA9-2494-4774-A748-2B41A2E6A262}.Debug|x86.Build.0 = Debug|x86
+		{0A008EA9-2494-4774-A748-2B41A2E6A262}.Release|x86.ActiveCfg = Release|x86
+		{0A008EA9-2494-4774-A748-2B41A2E6A262}.Release|x86.Build.0 = Release|x86
+		{FD726BA0-A31D-4980-A0C3-4715AFAF94B1}.Debug|x86.ActiveCfg = Debug|x86
+		{FD726BA0-A31D-4980-A0C3-4715AFAF94B1}.Debug|x86.Build.0 = Debug|x86
+		{FD726BA0-A31D-4980-A0C3-4715AFAF94B1}.Release|x86.ActiveCfg = Release|x86
+		{FD726BA0-A31D-4980-A0C3-4715AFAF94B1}.Release|x86.Build.0 = Release|x86
+		{A16DF7B0-59AF-437E-BEE5-C7BCE8189A1C}.Debug|x86.ActiveCfg = Debug|x86
+		{A16DF7B0-59AF-437E-BEE5-C7BCE8189A1C}.Debug|x86.Build.0 = Debug|x86
+		{A16DF7B0-59AF-437E-BEE5-C7BCE8189A1C}.Release|x86.ActiveCfg = Release|x86
+		{A16DF7B0-59AF-437E-BEE5-C7BCE8189A1C}.Release|x86.Build.0 = Release|x86
+		{E7FD94AF-DAFA-4EDE-AF78-A01EAB9E9023}.Debug|x86.ActiveCfg = Debug|x86
+		{E7FD94AF-DAFA-4EDE-AF78-A01EAB9E9023}.Debug|x86.Build.0 = Debug|x86
+		{E7FD94AF-DAFA-4EDE-AF78-A01EAB9E9023}.Release|x86.ActiveCfg = Release|x86
+		{E7FD94AF-DAFA-4EDE-AF78-A01EAB9E9023}.Release|x86.Build.0 = Release|x86
+		{CB05BCD5-1135-4A1C-91FC-609D0013C5C3}.Debug|x86.ActiveCfg = Debug|x86
+		{CB05BCD5-1135-4A1C-91FC-609D0013C5C3}.Debug|x86.Build.0 = Debug|x86
+		{CB05BCD5-1135-4A1C-91FC-609D0013C5C3}.Release|x86.ActiveCfg = Release|x86
+		{CB05BCD5-1135-4A1C-91FC-609D0013C5C3}.Release|x86.Build.0 = Release|x86
+		{42261DE7-3803-4F51-8B81-89221C92BCEA}.Debug|x86.ActiveCfg = Debug|x86
+		{42261DE7-3803-4F51-8B81-89221C92BCEA}.Debug|x86.Build.0 = Debug|x86
+		{42261DE7-3803-4F51-8B81-89221C92BCEA}.Release|x86.ActiveCfg = Release|x86
+		{42261DE7-3803-4F51-8B81-89221C92BCEA}.Release|x86.Build.0 = Release|x86
+		{699F3FA8-5C5D-42A8-8CAD-91537F3B1575}.Debug|x86.ActiveCfg = Debug|x86
+		{699F3FA8-5C5D-42A8-8CAD-91537F3B1575}.Debug|x86.Build.0 = Debug|x86
+		{699F3FA8-5C5D-42A8-8CAD-91537F3B1575}.Release|x86.ActiveCfg = Release|x86
+		{699F3FA8-5C5D-42A8-8CAD-91537F3B1575}.Release|x86.Build.0 = Release|x86
+		{8D2DE5A6-AA77-4781-9E7A-8B850E1DD440}.Debug|x86.ActiveCfg = Debug|x86
+		{8D2DE5A6-AA77-4781-9E7A-8B850E1DD440}.Debug|x86.Build.0 = Debug|x86
+		{8D2DE5A6-AA77-4781-9E7A-8B850E1DD440}.Release|x86.ActiveCfg = Release|x86
+		{8D2DE5A6-AA77-4781-9E7A-8B850E1DD440}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

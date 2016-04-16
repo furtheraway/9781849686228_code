@@ -1,0 +1,11 @@
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.ComplexTabs\bin\Debug\CH03.ComplexTabs.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.ComplexTabs\bin\Debug\CH03.ComplexTabs.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.ComplexTabs\obj\x86\Debug\MainWindow.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.ComplexTabs\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.ComplexTabs\obj\x86\Debug\App.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.ComplexTabs\obj\x86\Debug\CH03.ComplexTabs_MarkupCompile.cache
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.ComplexTabs\obj\x86\Debug\CH03.ComplexTabs.g.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.ComplexTabs\obj\x86\Debug\CH03.ComplexTabs.Properties.Resources.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.ComplexTabs\obj\x86\Debug\CH03.ComplexTabs.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.ComplexTabs\obj\x86\Debug\CH03.ComplexTabs.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.ComplexTabs\obj\x86\Debug\CH03.ComplexTabs.csproj.GenerateResource.Cache

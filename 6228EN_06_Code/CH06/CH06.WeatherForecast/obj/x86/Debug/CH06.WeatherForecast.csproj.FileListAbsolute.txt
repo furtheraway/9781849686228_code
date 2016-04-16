@@ -1,0 +1,13 @@
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.WeatherForecast\bin\Debug\CH06.WeatherForecast.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.WeatherForecast\bin\Debug\CH06.WeatherForecast.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.WeatherForecast\obj\x86\Debug\MainWindow.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.WeatherForecast\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.WeatherForecast\obj\x86\Debug\App.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.WeatherForecast\obj\x86\Debug\CH06.WeatherForecast_MarkupCompile.cache
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.WeatherForecast\obj\x86\Debug\CH06.WeatherForecast.g.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.WeatherForecast\obj\x86\Debug\CH06.WeatherForecast.Properties.Resources.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.WeatherForecast\obj\x86\Debug\CH06.WeatherForecast.csproj.GenerateResource.Cache
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.WeatherForecast\obj\x86\Debug\CH06.WeatherForecast.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.WeatherForecast\obj\x86\Debug\CH06.WeatherForecast.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.WeatherForecast\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter06\CH06\CH06.WeatherForecast\obj\x86\Debug\CH06.WeatherForecast_MarkupCompile.lref

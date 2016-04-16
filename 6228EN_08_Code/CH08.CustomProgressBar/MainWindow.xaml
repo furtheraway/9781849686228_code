@@ -1,0 +1,22 @@
+﻿<Window x:Class="CH08.CustomProgressBar.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:CH08.CustomProgressBar"
+        Title="Progress Bars" Height="350" Width="525">
+    <StackPanel>
+        <ProgressBar Height="30" Value="60" Margin="20" Template="{StaticResource pt1}" x:Name="pb1" Foreground="Black" FontSize="16"/>
+
+        <CheckBox Content="Indeterminate" IsChecked="{Binding IsIndeterminate, ElementName=pb1}" FontSize="16" Margin="4"/>
+
+        <ProgressBar Height="30" Value="80" Margin="20" local:ProgressBarAttributes.ShowText="False"/>
+
+        <ProgressBar Height="30" Value="27" Margin="20" Foreground="White" FontSize="18" FontWeight="Bold">
+            <ProgressBar.Background>
+                <LinearGradientBrush EndPoint=".5,0" SpreadMethod="Reflect">
+                    <GradientStop Offset="0" Color="LightBlue" />
+                    <GradientStop Offset="1" Color="DarkBlue" />
+                </LinearGradientBrush>
+            </ProgressBar.Background>
+        </ProgressBar>
+    </StackPanel>
+</Window>

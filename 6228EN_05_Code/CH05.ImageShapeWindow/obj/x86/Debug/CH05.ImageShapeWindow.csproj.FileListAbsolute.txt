@@ -1,0 +1,11 @@
+C:\Users\Pavel\Documents\WPFBook\Chapter05\CH05\CH05.ImageShapeWindow\bin\Debug\CH05.ImageShapeWindow.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter05\CH05\CH05.ImageShapeWindow\bin\Debug\CH05.ImageShapeWindow.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter05\CH05\CH05.ImageShapeWindow\obj\x86\Debug\MainWindow.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter05\CH05\CH05.ImageShapeWindow\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter05\CH05\CH05.ImageShapeWindow\obj\x86\Debug\App.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter05\CH05\CH05.ImageShapeWindow\obj\x86\Debug\CH05.ImageShapeWindow_MarkupCompile.cache
+C:\Users\Pavel\Documents\WPFBook\Chapter05\CH05\CH05.ImageShapeWindow\obj\x86\Debug\CH05.ImageShapeWindow.g.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter05\CH05\CH05.ImageShapeWindow\obj\x86\Debug\CH05.ImageShapeWindow.Properties.Resources.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter05\CH05\CH05.ImageShapeWindow\obj\x86\Debug\CH05.ImageShapeWindow.csproj.GenerateResource.Cache
+C:\Users\Pavel\Documents\WPFBook\Chapter05\CH05\CH05.ImageShapeWindow\obj\x86\Debug\CH05.ImageShapeWindow.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter05\CH05\CH05.ImageShapeWindow\obj\x86\Debug\CH05.ImageShapeWindow.pdb

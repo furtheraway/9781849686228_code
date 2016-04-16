@@ -1,0 +1,11 @@
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08..MultiTriggerDemo\bin\Debug\CH08.MultiTriggerDemo.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08..MultiTriggerDemo\bin\Debug\CH08.MultiTriggerDemo.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08..MultiTriggerDemo\obj\x86\Debug\MainWindow.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08..MultiTriggerDemo\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08..MultiTriggerDemo\obj\x86\Debug\App.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08..MultiTriggerDemo\obj\x86\Debug\CH08.MultiTriggerDemo_MarkupCompile.cache
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08..MultiTriggerDemo\obj\x86\Debug\CH08.MultiTriggerDemo.g.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08..MultiTriggerDemo\obj\x86\Debug\CH08.MultiTriggerDemo.Properties.Resources.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08..MultiTriggerDemo\obj\x86\Debug\CH08.MultiTriggerDemo.csproj.GenerateResource.Cache
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08..MultiTriggerDemo\obj\x86\Debug\CH08.MultiTriggerDemo.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter08\CH08\CH08..MultiTriggerDemo\obj\x86\Debug\CH08.MultiTriggerDemo.pdb

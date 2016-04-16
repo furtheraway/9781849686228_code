@@ -1,0 +1,11 @@
+C:\Users\Pavel\Documents\WPFBook\Chapter04\CH04\CH04.StretchEffects\bin\Debug\CH04.StretchEffects.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter04\CH04\CH04.StretchEffects\bin\Debug\CH04.StretchEffects.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter04\CH04\CH04.StretchEffects\obj\x86\Debug\MainWindow.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter04\CH04\CH04.StretchEffects\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter04\CH04\CH04.StretchEffects\obj\x86\Debug\App.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter04\CH04\CH04.StretchEffects\obj\x86\Debug\CH04.StretchEffects_MarkupCompile.cache
+C:\Users\Pavel\Documents\WPFBook\Chapter04\CH04\CH04.StretchEffects\obj\x86\Debug\CH04.StretchEffects.g.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter04\CH04\CH04.StretchEffects\obj\x86\Debug\CH04.StretchEffects.Properties.Resources.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter04\CH04\CH04.StretchEffects\obj\x86\Debug\CH04.StretchEffects.csproj.GenerateResource.Cache
+C:\Users\Pavel\Documents\WPFBook\Chapter04\CH04\CH04.StretchEffects\obj\x86\Debug\CH04.StretchEffects.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter04\CH04\CH04.StretchEffects\obj\x86\Debug\CH04.StretchEffects.pdb

@@ -1,0 +1,13 @@
+C:\Users\Pavel\Documents\WPFBook\Chapter11\CH11VS2012\CH11.AsyncIO\bin\Debug\CH11.AsyncIO.exe.config
+C:\Users\Pavel\Documents\WPFBook\Chapter11\CH11VS2012\CH11.AsyncIO\bin\Debug\CH11.AsyncIO.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter11\CH11VS2012\CH11.AsyncIO\bin\Debug\CH11.AsyncIO.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter11\CH11VS2012\CH11.AsyncIO\obj\Debug\CH11.AsyncIO.csprojResolveAssemblyReference.cache
+C:\Users\Pavel\Documents\WPFBook\Chapter11\CH11VS2012\CH11.AsyncIO\obj\Debug\MainWindow.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter11\CH11VS2012\CH11.AsyncIO\obj\Debug\MainWindow.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter11\CH11VS2012\CH11.AsyncIO\obj\Debug\App.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter11\CH11VS2012\CH11.AsyncIO\obj\Debug\CH11.AsyncIO_MarkupCompile.cache
+C:\Users\Pavel\Documents\WPFBook\Chapter11\CH11VS2012\CH11.AsyncIO\obj\Debug\CH11.AsyncIO.g.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter11\CH11VS2012\CH11.AsyncIO\obj\Debug\CH11.AsyncIO.Properties.Resources.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter11\CH11VS2012\CH11.AsyncIO\obj\Debug\CH11.AsyncIO.csproj.GenerateResource.Cache
+C:\Users\Pavel\Documents\WPFBook\Chapter11\CH11VS2012\CH11.AsyncIO\obj\Debug\CH11.AsyncIO.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter11\CH11VS2012\CH11.AsyncIO\obj\Debug\CH11.AsyncIO.pdb

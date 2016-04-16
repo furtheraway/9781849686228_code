@@ -1,0 +1,11 @@
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.SharedGridSizeDemo\bin\Debug\CH03.SharedGridSizeDemo.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.SharedGridSizeDemo\bin\Debug\CH03.SharedGridSizeDemo.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.SharedGridSizeDemo\obj\x86\Debug\MainWindow.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.SharedGridSizeDemo\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.SharedGridSizeDemo\obj\x86\Debug\App.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.SharedGridSizeDemo\obj\x86\Debug\CH03.SharedGridSizeDemo_MarkupCompile.cache
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.SharedGridSizeDemo\obj\x86\Debug\CH03.SharedGridSizeDemo.g.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.SharedGridSizeDemo\obj\x86\Debug\CH03.SharedGridSizeDemo.Properties.Resources.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.SharedGridSizeDemo\obj\x86\Debug\CH03.SharedGridSizeDemo.csproj.GenerateResource.Cache
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.SharedGridSizeDemo\obj\x86\Debug\CH03.SharedGridSizeDemo.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter03\CH03\CH03.SharedGridSizeDemo\obj\x86\Debug\CH03.SharedGridSizeDemo.pdb
